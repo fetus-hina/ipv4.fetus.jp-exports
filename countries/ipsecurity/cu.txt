@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ipSecurity allowUnlisted="true">
+  <add allowed="false" ipAddress="152.206.0.0" subnetMask="255.254.0.0" />
+  <add allowed="false" ipAddress="169.158.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="181.225.224.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="190.6.64.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="190.15.144.0" subnetMask="255.255.240.0" />
+  <add allowed="false" ipAddress="190.92.112.0" subnetMask="255.255.240.0" />
+  <add allowed="false" ipAddress="190.107.0.0" subnetMask="255.255.240.0" />
+  <add allowed="false" ipAddress="196.1.112.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="196.1.135.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="196.3.152.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="200.0.16.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="200.0.24.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="200.5.12.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="200.13.144.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="200.14.48.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="200.55.128.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="201.220.192.0" subnetMask="255.255.224.0" />
+</ipSecurity>
