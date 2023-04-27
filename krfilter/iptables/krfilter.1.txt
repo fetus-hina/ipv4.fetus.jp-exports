@@ -1034,7 +1034,6 @@
 -A RULE1 -s 101.37.0.0/16      -j RULE2
 -A RULE1 -s 101.38.0.0/15      -j RULE2
 -A RULE1 -s 101.40.0.0/14      -j RULE2
--A RULE1 -s 101.47.0.0/16      -j RULE2
 -A RULE1 -s 101.48.0.0/15      -j RULE2
 -A RULE1 -s 101.50.8.0/21      -j RULE2
 -A RULE1 -s 101.50.56.0/22     -j RULE2
