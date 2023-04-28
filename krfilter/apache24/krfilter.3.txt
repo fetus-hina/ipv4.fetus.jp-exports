@@ -6456,6 +6456,7 @@ Require not ip 103.11.186.0/23
 Require not ip 103.11.222.0/23
 Require not ip 103.11.224.0/21
 Require not ip 103.11.232.0/22
+Require not ip 103.11.245.0/24
 Require not ip 103.11.246.0/23
 Require not ip 103.11.248.0/21
 Require not ip 103.12.1.0/24
@@ -7979,6 +7980,8 @@ Require not ip 103.69.30.0/24
 Require not ip 103.69.32.0/20
 Require not ip 103.69.60.0/22
 Require not ip 103.69.88.0/22
+Require not ip 103.69.92.0/23
+Require not ip 103.69.106.0/23
 Require not ip 103.69.112.0/21
 Require not ip 103.69.120.0/22
 Require not ip 103.69.132.0/22
@@ -8011,8 +8014,9 @@ Require not ip 103.70.68.0/23
 Require not ip 103.70.76.0/22
 Require not ip 103.70.80.0/22
 Require not ip 103.70.90.0/23
+Require not ip 103.70.92.0/22
 Require not ip 103.70.96.0/20
-Require not ip 103.70.124.0/22
+Require not ip 103.70.120.0/21
 Require not ip 103.70.128.0/21
 Require not ip 103.70.139.0/24
 Require not ip 103.70.144.0/20
@@ -9358,7 +9362,6 @@ Require not ip 103.109.209.0/24
 Require not ip 103.109.210.0/23
 Require not ip 103.109.216.0/21
 Require not ip 103.109.224.0/22
-Require not ip 103.109.244.0/24
 Require not ip 103.109.247.0/24
 Require not ip 103.109.248.0/22
 Require not ip 103.110.0.0/22
@@ -10981,6 +10984,7 @@ Require not ip 103.150.226.0/23
 Require not ip 103.150.230.0/23
 Require not ip 103.150.244.0/23
 Require not ip 103.150.250.0/23
+Require not ip 103.150.253.0/24
 Require not ip 103.151.4.0/23
 Require not ip 103.151.13.0/24
 Require not ip 103.151.14.0/23
@@ -11338,6 +11342,7 @@ Require not ip 103.157.240.0/23
 Require not ip 103.157.254.0/23
 Require not ip 103.158.0.0/23
 Require not ip 103.158.8.0/23
+Require not ip 103.158.13.0/24
 Require not ip 103.158.16.0/23
 Require not ip 103.158.20.0/22
 Require not ip 103.158.24.0/21
@@ -13829,7 +13834,6 @@ Require not ip 103.230.84.0/22
 Require not ip 103.230.88.0/22
 Require not ip 103.230.96.0/21
 Require not ip 103.230.112.0/22
-Require not ip 103.230.120.0/22
 Require not ip 103.230.136.0/22
 Require not ip 103.230.144.0/21
 Require not ip 103.230.152.0/22
