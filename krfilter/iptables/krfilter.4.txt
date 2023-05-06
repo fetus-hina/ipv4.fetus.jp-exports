@@ -10867,6 +10867,7 @@
 -A RULE1 -s 92.39.240.0/20     -j RULE2
 -A RULE1 -s 92.40.0.0/15       -j RULE2
 -A RULE1 -s 92.42.0.0/22       -j RULE2
+-A RULE1 -s 92.42.5.0/24       -j RULE2
 -A RULE1 -s 92.42.16.0/21      -j RULE2
 -A RULE1 -s 92.42.44.0/22      -j RULE2
 -A RULE1 -s 92.42.56.0/21      -j RULE2
