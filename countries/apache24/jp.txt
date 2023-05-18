@@ -172,7 +172,6 @@ Require not ip 45.118.40.0/22
 Require not ip 45.119.164.0/22
 Require not ip 45.119.204.0/22
 Require not ip 45.120.132.0/22
-Require not ip 45.120.176.0/22
 Require not ip 45.121.148.0/22
 Require not ip 45.121.184.0/22
 Require not ip 45.122.224.0/22
@@ -1740,7 +1739,8 @@ Require not ip 163.47.24.0/24
 Require not ip 163.47.29.0/24
 Require not ip 163.48.0.0/14
 Require not ip 163.54.0.0/15
-Require not ip 163.56.0.0/14
+Require not ip 163.56.0.0/16
+Require not ip 163.58.0.0/15
 Require not ip 163.60.0.0/16
 Require not ip 163.130.0.0/15
 Require not ip 163.132.0.0/14
