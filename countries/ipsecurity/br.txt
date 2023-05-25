@@ -2833,7 +2833,15 @@
   <add allowed="false" ipAddress="170.254.236.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="170.254.240.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="177.0.0.0" subnetMask="255.248.0.0" />
-  <add allowed="false" ipAddress="177.8.0.0" subnetMask="255.254.0.0" />
+  <add allowed="false" ipAddress="177.8.0.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="177.8.64.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="177.8.69.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="177.8.70.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="177.8.72.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="177.8.80.0" subnetMask="255.255.240.0" />
+  <add allowed="false" ipAddress="177.8.96.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="177.8.128.0" subnetMask="255.255.128.0" />
+  <add allowed="false" ipAddress="177.9.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="177.10.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="177.10.128.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="177.10.160.0" subnetMask="255.255.240.0" />

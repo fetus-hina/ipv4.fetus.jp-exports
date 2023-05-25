@@ -2830,7 +2830,15 @@ deny from 170.254.224.0/22
 deny from 170.254.236.0/22
 deny from 170.254.240.0/20
 deny from 177.0.0.0/13
-deny from 177.8.0.0/15
+deny from 177.8.0.0/18
+deny from 177.8.64.0/22
+deny from 177.8.69.0/24
+deny from 177.8.70.0/23
+deny from 177.8.72.0/21
+deny from 177.8.80.0/20
+deny from 177.8.96.0/19
+deny from 177.8.128.0/17
+deny from 177.9.0.0/16
 deny from 177.10.0.0/17
 deny from 177.10.128.0/19
 deny from 177.10.160.0/20
