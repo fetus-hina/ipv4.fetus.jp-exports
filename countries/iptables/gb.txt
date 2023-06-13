@@ -3263,6 +3263,7 @@
 -A RULE1 -s 178.255.64.0/21    -j RULE2
 -A RULE1 -s 178.255.80.0/20    -j RULE2
 -A RULE1 -s 185.0.2.0/24       -j RULE2
+-A RULE1 -s 185.0.32.0/24      -j RULE2
 -A RULE1 -s 185.1.33.0/24      -j RULE2
 -A RULE1 -s 185.1.53.0/24      -j RULE2
 -A RULE1 -s 185.1.71.0/24      -j RULE2
