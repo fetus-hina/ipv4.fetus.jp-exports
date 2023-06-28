@@ -3104,7 +3104,8 @@ deny from 103.47.24.0/22
 deny from 103.47.32.0/20
 deny from 103.47.48.0/22
 deny from 103.47.60.0/23
-deny from 103.47.64.0/20
+deny from 103.47.64.0/22
+deny from 103.47.72.0/21
 deny from 103.47.80.0/22
 deny from 103.47.88.0/21
 deny from 103.47.96.0/22
@@ -9646,6 +9647,7 @@ deny from 103.230.12.0/22
 deny from 103.230.20.0/22
 deny from 103.230.28.0/22
 deny from 103.230.32.0/22
+deny from 103.230.42.0/23
 deny from 103.230.44.0/22
 deny from 103.230.48.0/23
 deny from 103.230.52.0/22
