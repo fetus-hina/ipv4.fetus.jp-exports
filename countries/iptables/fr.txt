@@ -59,7 +59,7 @@
 -A RULE1 -s 5.252.56.0/21      -j RULE2
 -A RULE1 -s 5.252.88.0/22      -j RULE2
 -A RULE1 -s 5.252.112.0/22     -j RULE2
--A RULE1 -s 5.252.148.0/22     -j RULE2
+-A RULE1 -s 5.252.144.0/21     -j RULE2
 -A RULE1 -s 5.253.132.0/22     -j RULE2
 -A RULE1 -s 5.253.152.0/22     -j RULE2
 -A RULE1 -s 23.90.192.0/18     -j RULE2
