@@ -1225,7 +1225,8 @@
 -A RULE1 -s 151.16.0.0/12      -j RULE2
 -A RULE1 -s 151.32.0.0/11      -j RULE2
 -A RULE1 -s 151.64.0.0/11      -j RULE2
--A RULE1 -s 151.96.0.0/14      -j RULE2
+-A RULE1 -s 151.96.0.0/15      -j RULE2
+-A RULE1 -s 151.99.0.0/16      -j RULE2
 -A RULE1 -s 151.100.0.0/16     -j RULE2
 -A RULE1 -s 151.248.8.0/21     -j RULE2
 -A RULE1 -s 152.89.68.0/22     -j RULE2

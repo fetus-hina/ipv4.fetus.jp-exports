@@ -2383,7 +2383,13 @@ deny from 64.18.96.0/19
 deny from 64.18.128.0/19
 deny from 64.18.192.0/18
 deny from 64.19.0.0/16
-deny from 64.20.0.0/14
+deny from 64.20.0.0/16
+deny from 64.21.0.0/17
+deny from 64.21.128.0/19
+deny from 64.21.160.0/20
+deny from 64.21.176.0/21
+deny from 64.21.192.0/18
+deny from 64.22.0.0/15
 deny from 64.24.0.0/16
 deny from 64.25.0.0/18
 deny from 64.25.64.0/19
@@ -5579,6 +5585,7 @@ deny from 103.92.210.0/23
 deny from 103.95.207.0/24
 deny from 103.98.172.0/22
 deny from 103.98.212.0/22
+deny from 103.99.32.0/24
 deny from 103.101.0.0/22
 deny from 103.101.153.0/24
 deny from 103.101.176.0/22
