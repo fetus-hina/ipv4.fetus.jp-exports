@@ -644,7 +644,9 @@
 -A RULE1 -s 66.38.152.0/21     -j RULE2
 -A RULE1 -s 66.38.160.0/19     -j RULE2
 -A RULE1 -s 66.38.192.0/18     -j RULE2
--A RULE1 -s 66.40.0.0/17       -j RULE2
+-A RULE1 -s 66.40.0.0/18       -j RULE2
+-A RULE1 -s 66.40.64.0/19      -j RULE2
+-A RULE1 -s 66.40.96.0/20      -j RULE2
 -A RULE1 -s 66.40.128.0/19     -j RULE2
 -A RULE1 -s 66.40.160.0/20     -j RULE2
 -A RULE1 -s 66.40.192.0/18     -j RULE2
