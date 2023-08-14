@@ -21524,7 +21524,10 @@
 -A RULE1 -s 207.2.112.0/20     -j RULE2
 -A RULE1 -s 207.2.128.0/17     -j RULE2
 -A RULE1 -s 207.3.0.0/16       -j RULE2
--A RULE1 -s 207.4.0.0/15       -j RULE2
+-A RULE1 -s 207.4.0.0/16       -j RULE2
+-A RULE1 -s 207.5.0.0/17       -j RULE2
+-A RULE1 -s 207.5.128.0/18     -j RULE2
+-A RULE1 -s 207.5.224.0/19     -j RULE2
 -A RULE1 -s 207.7.0.0/16       -j RULE2
 -A RULE1 -s 207.8.0.0/13       -j RULE2
 -A RULE1 -s 207.16.0.0/14      -j RULE2
