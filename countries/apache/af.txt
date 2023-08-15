@@ -1,4 +1,5 @@
 deny from 23.88.192.0/19
+deny from 43.230.209.0/24
 deny from 43.250.136.0/22
 deny from 45.65.58.0/23
 deny from 45.116.128.0/23
@@ -23,6 +24,7 @@ deny from 103.23.36.0/22
 deny from 103.28.132.0/22
 deny from 103.30.136.0/22
 deny from 103.42.0.0/22
+deny from 103.46.208.0/22
 deny from 103.53.16.0/22
 deny from 103.53.24.0/22
 deny from 103.71.59.0/24

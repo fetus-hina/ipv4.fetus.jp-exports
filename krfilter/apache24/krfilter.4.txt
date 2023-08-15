@@ -2084,7 +2084,7 @@ Require not ip 45.86.208.0/21
 Require not ip 45.86.220.0/24
 Require not ip 45.86.222.0/23
 Require not ip 45.86.224.0/22
-Require not ip 45.86.228.0/24
+Require not ip 45.86.228.0/23
 Require not ip 45.86.236.0/22
 Require not ip 45.86.240.0/22
 Require not ip 45.86.248.0/21
@@ -6452,7 +6452,8 @@ Require not ip 85.120.0.0/13
 Require not ip 85.128.0.0/16
 Require not ip 85.129.0.0/17
 Require not ip 85.130.0.0/17
-Require not ip 85.131.0.0/16
+Require not ip 85.131.0.0/17
+Require not ip 85.131.128.0/18
 Require not ip 85.132.128.0/17
 Require not ip 85.133.0.0/17
 Require not ip 85.134.0.0/15
@@ -9888,7 +9889,6 @@ Require not ip 91.223.171.0/24
 Require not ip 91.223.172.0/22
 Require not ip 91.223.182.0/24
 Require not ip 91.223.184.0/23
-Require not ip 91.223.187.0/24
 Require not ip 91.223.189.0/24
 Require not ip 91.223.190.0/24
 Require not ip 91.223.192.0/23
@@ -13245,7 +13245,6 @@ Require not ip 134.128.0.0/19
 Require not ip 134.128.64.0/18
 Require not ip 134.128.128.0/17
 Require not ip 134.130.0.0/16
-Require not ip 134.138.0.0/16
 Require not ip 134.142.0.0/15
 Require not ip 134.145.0.0/16
 Require not ip 134.146.0.0/15
@@ -20760,7 +20759,6 @@ Require not ip 185.184.216.0/24
 Require not ip 185.184.218.0/23
 Require not ip 185.184.220.0/22
 Require not ip 185.184.224.0/22
-Require not ip 185.184.229.0/24
 Require not ip 185.184.230.0/23
 Require not ip 185.184.236.0/22
 Require not ip 185.184.240.0/22
@@ -28675,7 +28673,7 @@ Require not ip 194.39.98.0/24
 Require not ip 194.39.100.0/24
 Require not ip 194.39.104.0/22
 Require not ip 194.39.109.0/24
-Require not ip 194.39.110.0/24
+Require not ip 194.39.110.0/23
 Require not ip 194.39.112.0/20
 Require not ip 194.39.128.0/18
 Require not ip 194.39.192.0/19
@@ -32215,6 +32213,7 @@ Require not ip 201.148.168.0/22
 Require not ip 202.4.187.0/24
 Require not ip 202.22.160.0/20
 Require not ip 202.49.88.0/23
+Require not ip 202.51.248.0/22
 Require not ip 202.56.62.0/23
 Require not ip 202.61.192.0/18
 Require not ip 202.71.128.0/20
