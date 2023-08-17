@@ -1550,7 +1550,6 @@
 -A RULE1 -s 194.9.74.0/23      -j RULE2
 -A RULE1 -s 194.9.94.0/23      -j RULE2
 -A RULE1 -s 194.14.0.0/16      -j RULE2
--A RULE1 -s 194.15.141.0/24    -j RULE2
 -A RULE1 -s 194.15.212.0/24    -j RULE2
 -A RULE1 -s 194.16.0.0/15      -j RULE2
 -A RULE1 -s 194.18.0.0/16      -j RULE2
