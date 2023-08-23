@@ -84,6 +84,7 @@
 -A RULE1 -s 103.5.32.0/22      -j RULE2
 -A RULE1 -s 103.5.44.0/22      -j RULE2
 -A RULE1 -s 103.5.100.0/22     -j RULE2
+-A RULE1 -s 103.6.124.0/22     -j RULE2
 -A RULE1 -s 103.8.104.0/22     -j RULE2
 -A RULE1 -s 103.9.116.0/22     -j RULE2
 -A RULE1 -s 103.10.4.0/22      -j RULE2

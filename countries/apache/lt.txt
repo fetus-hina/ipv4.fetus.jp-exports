@@ -25,7 +25,7 @@ deny from 31.13.214.0/24
 deny from 31.14.176.0/22
 deny from 31.40.216.0/22
 deny from 31.40.232.0/22
-deny from 31.41.248.0/23
+deny from 31.41.248.0/24
 deny from 31.44.96.0/20
 deny from 31.135.216.0/21
 deny from 31.172.224.0/22
@@ -745,7 +745,11 @@ deny from 213.5.133.0/24
 deny from 213.109.155.0/24
 deny from 213.159.32.0/19
 deny from 213.164.96.0/19
-deny from 213.183.32.0/19
+deny from 213.183.32.0/20
+deny from 213.183.48.0/22
+deny from 213.183.52.0/23
+deny from 213.183.58.0/23
+deny from 213.183.60.0/22
 deny from 213.190.32.0/19
 deny from 213.197.128.0/18
 deny from 213.226.68.0/22
