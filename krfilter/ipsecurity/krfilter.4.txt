@@ -11731,6 +11731,7 @@
   <add allowed="false" ipAddress="94.101.98.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="94.101.100.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="94.101.102.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="94.101.104.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="94.101.112.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="94.101.144.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="94.101.160.0" subnetMask="255.255.240.0" />
@@ -13260,6 +13261,7 @@
   <add allowed="false" ipAddress="134.128.64.0" subnetMask="255.255.192.0" />
   <add allowed="false" ipAddress="134.128.128.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="134.130.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="134.138.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="134.142.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="134.145.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="134.146.0.0" subnetMask="255.254.0.0" />
@@ -15108,7 +15110,6 @@
   <add allowed="false" ipAddress="176.67.160.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="176.67.184.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="176.67.224.0" subnetMask="255.255.240.0" />
-  <add allowed="false" ipAddress="176.67.248.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="176.68.0.0" subnetMask="255.252.0.0" />
   <add allowed="false" ipAddress="176.72.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="176.74.0.0" subnetMask="255.255.248.0" />
@@ -23303,6 +23304,7 @@
   <add allowed="false" ipAddress="189.28.64.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="190.92.168.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="190.106.160.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="190.123.0.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="190.211.144.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="192.5.28.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="192.5.30.0" subnetMask="255.255.255.0" />
@@ -24772,7 +24774,7 @@
   <add allowed="false" ipAddress="193.0.226.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.0.229.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="193.0.230.0" subnetMask="255.255.254.0" />
-  <add allowed="false" ipAddress="193.0.234.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="193.0.232.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="193.0.236.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="193.0.238.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.0.241.0" subnetMask="255.255.255.0" />
@@ -26363,7 +26365,9 @@
   <add allowed="false" ipAddress="193.105.137.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="193.105.138.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.105.140.0" subnetMask="255.255.252.0" />
-  <add allowed="false" ipAddress="193.105.144.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="193.105.145.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="193.105.146.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="193.105.148.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="193.105.153.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="193.105.154.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.105.157.0" subnetMask="255.255.255.0" />
@@ -26780,7 +26784,6 @@
   <add allowed="false" ipAddress="193.142.22.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.142.24.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="193.142.28.0" subnetMask="255.255.254.0" />
-  <add allowed="false" ipAddress="193.142.32.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="193.142.40.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="193.142.48.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="193.142.52.0" subnetMask="255.255.255.0" />
@@ -29200,6 +29203,7 @@
   <add allowed="false" ipAddress="194.77.149.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="194.77.154.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="194.77.156.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="194.77.158.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="194.77.185.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="194.77.218.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="194.77.236.0" subnetMask="255.255.252.0" />
@@ -30562,7 +30566,7 @@
   <add allowed="false" ipAddress="195.35.104.128" subnetMask="255.255.255.128" />
   <add allowed="false" ipAddress="195.35.106.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="195.35.108.0" subnetMask="255.255.252.0" />
-  <add allowed="false" ipAddress="195.35.114.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="195.35.112.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="195.35.118.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="195.35.120.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="195.35.122.0" subnetMask="255.255.254.0" />
@@ -34087,6 +34091,7 @@
   <add allowed="false" ipAddress="217.194.0.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="217.194.32.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="217.194.64.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="217.194.138.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="217.194.145.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="217.194.146.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="217.194.148.0" subnetMask="255.255.254.0" />
