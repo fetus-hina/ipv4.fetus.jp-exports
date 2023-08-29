@@ -133,6 +133,7 @@
 -A RULE1 -s 37.247.128.0/17    -j RULE2
 -A RULE1 -s 37.248.0.0/15      -j RULE2
 -A RULE1 -s 37.251.192.0/21    -j RULE2
+-A RULE1 -s 45.9.21.0/24       -j RULE2
 -A RULE1 -s 45.9.64.0/22       -j RULE2
 -A RULE1 -s 45.9.136.0/22      -j RULE2
 -A RULE1 -s 45.9.180.0/22      -j RULE2
