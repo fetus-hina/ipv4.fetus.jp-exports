@@ -997,6 +997,7 @@
   <add allowed="false" ipAddress="23.161.40.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="23.161.48.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="23.161.50.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="23.161.56.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="23.161.80.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="23.161.96.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="23.161.112.0" subnetMask="255.255.255.0" />
@@ -3575,7 +3576,10 @@
   <add allowed="false" ipAddress="66.243.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="66.244.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="66.244.128.0" subnetMask="255.255.192.0" />
-  <add allowed="false" ipAddress="66.245.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="66.245.0.0" subnetMask="255.255.128.0" />
+  <add allowed="false" ipAddress="66.245.128.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="66.245.192.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="66.245.240.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="66.246.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="66.248.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="66.248.128.0" subnetMask="255.255.224.0" />
@@ -8592,7 +8596,7 @@
   <add allowed="false" ipAddress="149.112.64.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="149.112.68.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="149.112.70.0" subnetMask="255.255.254.0" />
-  <add allowed="false" ipAddress="149.112.72.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="149.112.72.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="149.112.112.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="149.112.149.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="149.112.152.0" subnetMask="255.255.252.0" />
