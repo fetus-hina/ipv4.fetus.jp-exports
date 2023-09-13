@@ -579,7 +579,7 @@ Require not ip 64.251.64.0/19
 Require not ip 64.253.128.0/19
 Require not ip 64.254.0.0/19
 Require not ip 64.254.224.0/19
-Require not ip 64.255.228.0/23
+Require not ip 64.255.228.0/22
 Require not ip 65.38.32.0/20
 Require not ip 65.38.64.0/19
 Require not ip 65.39.0.0/18
@@ -5225,6 +5225,7 @@ Require not ip 209.15.128.0/17
 Require not ip 209.16.158.0/24
 Require not ip 209.17.128.0/18
 Require not ip 209.20.0.0/18
+Require not ip 209.20.130.0/23
 Require not ip 209.25.128.0/21
 Require not ip 209.25.136.0/22
 Require not ip 209.25.144.0/22
