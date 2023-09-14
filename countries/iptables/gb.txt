@@ -984,7 +984,8 @@
 -A RULE1 -s 78.157.192.0/19    -j RULE2
 -A RULE1 -s 78.158.32.0/19     -j RULE2
 -A RULE1 -s 78.158.64.0/19     -j RULE2
--A RULE1 -s 79.73.0.0/16       -j RULE2
+-A RULE1 -s 79.73.64.0/18      -j RULE2
+-A RULE1 -s 79.73.128.0/17     -j RULE2
 -A RULE1 -s 79.74.0.0/16       -j RULE2
 -A RULE1 -s 79.76.0.0/14       -j RULE2
 -A RULE1 -s 79.98.32.0/21      -j RULE2
