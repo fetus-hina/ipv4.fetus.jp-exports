@@ -454,6 +454,7 @@
 -A RULE1 -s 117.58.192.0/19    -j RULE2
 -A RULE1 -s 117.104.240.0/20   -j RULE2
 -A RULE1 -s 118.88.8.0/21      -j RULE2
+-A RULE1 -s 119.2.32.0/21      -j RULE2
 -A RULE1 -s 119.63.0.0/23      -j RULE2
 -A RULE1 -s 119.63.2.0/24      -j RULE2
 -A RULE1 -s 119.92.0.0/14      -j RULE2
