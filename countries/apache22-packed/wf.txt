@@ -1,3 +1,1 @@
-deny from {cidr_list}
-deny from {cidr_list}
-deny from {cidr_list}
+deny from 27.125.192.0/22 103.235.110.0/23 117.20.32.0/21
