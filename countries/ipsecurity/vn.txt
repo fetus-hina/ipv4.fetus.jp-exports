@@ -68,6 +68,7 @@
   <add allowed="false" ipAddress="101.96.12.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="101.96.64.0" subnetMask="255.255.192.0" />
   <add allowed="false" ipAddress="101.99.0.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="101.101.96.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="103.1.200.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="103.1.208.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="103.1.236.0" subnetMask="255.255.252.0" />
@@ -960,4 +961,5 @@
   <add allowed="false" ipAddress="221.133.0.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="222.252.0.0" subnetMask="255.252.0.0" />
   <add allowed="false" ipAddress="223.27.104.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="223.130.10.0" subnetMask="255.255.254.0" />
 </ipSecurity>
