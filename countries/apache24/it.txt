@@ -376,7 +376,6 @@ Require not ip 49.236.0.0/18
 Require not ip 51.179.0.0/17
 Require not ip 52.144.64.0/19
 Require not ip 62.3.21.0/24
-Require not ip 62.10.0.0/15
 Require not ip 62.13.160.0/19
 Require not ip 62.18.0.0/15
 Require not ip 62.48.32.0/19
@@ -616,7 +615,8 @@ Require not ip 84.21.176.0/22
 Require not ip 84.33.0.0/16
 Require not ip 84.38.48.0/20
 Require not ip 84.38.251.0/24
-Require not ip 84.220.0.0/14
+Require not ip 84.220.0.0/15
+Require not ip 84.222.0.0/16
 Require not ip 84.234.100.0/22
 Require not ip 84.240.128.0/18
 Require not ip 84.246.144.0/21
