@@ -9449,7 +9449,7 @@
 -A RULE1 -s 159.153.0.0/16     -j RULE2
 -A RULE1 -s 159.155.0.0/16     -j RULE2
 -A RULE1 -s 159.157.0.0/16     -j RULE2
--A RULE1 -s 159.158.0.0/16     -j RULE2
+-A RULE1 -s 159.158.0.0/15     -j RULE2
 -A RULE1 -s 159.161.0.0/16     -j RULE2
 -A RULE1 -s 159.163.0.0/16     -j RULE2
 -A RULE1 -s 159.164.0.0/15     -j RULE2
@@ -9583,6 +9583,7 @@
 -A RULE1 -s 161.13.0.0/16      -j RULE2
 -A RULE1 -s 161.14.0.0/15      -j RULE2
 -A RULE1 -s 161.16.0.0/16      -j RULE2
+-A RULE1 -s 161.19.0.0/16      -j RULE2
 -A RULE1 -s 161.21.0.0/16      -j RULE2
 -A RULE1 -s 161.26.0.0/16      -j RULE2
 -A RULE1 -s 161.28.0.0/16      -j RULE2
