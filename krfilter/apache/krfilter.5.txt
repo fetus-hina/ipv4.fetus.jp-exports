@@ -1562,7 +1562,8 @@ deny from 80.83.224.0/19
 deny from 80.84.112.0/20
 deny from 80.85.144.0/20
 deny from 80.85.176.0/20
-deny from 80.85.240.0/20
+deny from 80.85.240.0/22
+deny from 80.85.248.0/21
 deny from 80.87.96.0/20
 deny from 80.87.144.0/20
 deny from 80.87.192.0/20
