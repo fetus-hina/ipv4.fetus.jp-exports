@@ -39,7 +39,11 @@
   <add allowed="false" ipAddress="5.200.128.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="5.201.128.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="5.202.0.0" subnetMask="255.255.0.0" />
-  <add allowed="false" ipAddress="5.208.0.0" subnetMask="255.240.0.0" />
+  <add allowed="false" ipAddress="5.208.0.0" subnetMask="255.248.0.0" />
+  <add allowed="false" ipAddress="5.216.0.0" subnetMask="255.252.0.0" />
+  <add allowed="false" ipAddress="5.220.0.0" subnetMask="255.254.0.0" />
+  <add allowed="false" ipAddress="5.222.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="5.223.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="5.232.0.0" subnetMask="255.248.0.0" />
   <add allowed="false" ipAddress="5.250.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="5.252.216.0" subnetMask="255.255.252.0" />
@@ -327,6 +331,7 @@
   <add allowed="false" ipAddress="88.135.32.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="88.135.68.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="88.218.16.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="89.23.126.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="89.32.0.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="89.32.96.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="89.32.196.0" subnetMask="255.255.254.0" />
@@ -1416,7 +1421,6 @@
   <add allowed="false" ipAddress="193.228.168.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.242.125.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="193.242.194.0" subnetMask="255.255.254.0" />
-  <add allowed="false" ipAddress="193.242.208.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.246.160.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.246.174.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="193.246.200.0" subnetMask="255.255.254.0" />
