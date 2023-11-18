@@ -2617,10 +2617,7 @@ deny from 170.231.112.0/21
 deny from 170.231.120.0/22
 deny from 170.231.128.0/21
 deny from 170.231.140.0/22
-deny from 170.231.144.0/22
-deny from 170.231.149.0/24
-deny from 170.231.150.0/23
-deny from 170.231.152.0/21
+deny from 170.231.144.0/20
 deny from 170.231.164.0/22
 deny from 170.231.172.0/22
 deny from 170.231.180.0/22
@@ -4297,14 +4294,7 @@ deny from 201.77.104.0/22
 deny from 201.77.112.0/20
 deny from 201.77.128.0/17
 deny from 201.78.0.0/15
-deny from 201.80.0.0/14
-deny from 201.84.0.0/15
-deny from 201.86.0.0/16
-deny from 201.87.0.0/17
-deny from 201.87.128.0/18
-deny from 201.87.192.0/19
-deny from 201.87.224.0/21
-deny from 201.87.240.0/20
+deny from 201.80.0.0/13
 deny from 201.88.0.0/14
 deny from 201.92.0.0/15
 deny from 201.94.0.0/17
