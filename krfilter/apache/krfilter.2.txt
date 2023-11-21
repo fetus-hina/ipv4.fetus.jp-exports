@@ -11117,7 +11117,10 @@ deny from 117.16.0.0/15
 deny from 117.18.0.0/20
 deny from 117.18.16.0/21
 deny from 117.18.64.0/20
-deny from 117.18.96.0/20
+deny from 117.18.96.0/21
+deny from 117.18.105.0/24
+deny from 117.18.106.0/23
+deny from 117.18.108.0/22
 deny from 117.18.112.0/22
 deny from 117.18.116.0/24
 deny from 117.18.119.0/24
@@ -12483,6 +12486,12 @@ deny from 180.92.180.0/22
 deny from 180.92.200.0/21
 deny from 180.92.212.0/22
 deny from 180.92.240.0/20
+deny from 180.94.4.0/23
+deny from 180.94.7.0/24
+deny from 180.94.8.0/22
+deny from 180.94.12.0/23
+deny from 180.94.14.0/24
+deny from 180.94.16.0/23
 deny from 180.94.32.0/22
 deny from 180.94.56.0/21
 deny from 180.94.96.0/20
