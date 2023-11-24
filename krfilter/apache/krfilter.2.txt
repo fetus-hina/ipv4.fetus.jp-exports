@@ -266,6 +266,8 @@ deny from 36.37.64.0/18
 deny from 36.38.0.0/15
 deny from 36.40.0.0/13
 deny from 36.48.0.0/15
+deny from 36.50.3.0/24
+deny from 36.50.4.0/23
 deny from 36.50.36.0/24
 deny from 36.50.43.0/24
 deny from 36.50.44.0/22
@@ -11868,6 +11870,7 @@ deny from 134.42.232.0/21
 deny from 134.75.0.0/16
 deny from 134.159.0.0/16
 deny from 134.175.0.0/16
+deny from 134.208.0.0/16
 deny from 135.84.240.0/20
 deny from 136.22.32.0/19
 deny from 136.143.224.0/20
