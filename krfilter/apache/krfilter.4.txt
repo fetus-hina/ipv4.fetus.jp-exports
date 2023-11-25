@@ -6762,9 +6762,7 @@ deny from 86.104.64.0/21
 deny from 86.104.112.0/20
 deny from 86.104.128.0/19
 deny from 86.104.168.0/21
-deny from 86.104.176.0/22
-deny from 86.104.180.0/24
-deny from 86.104.182.0/23
+deny from 86.104.176.0/21
 deny from 86.104.184.0/22
 deny from 86.104.193.0/24
 deny from 86.104.194.0/24
@@ -30819,7 +30817,7 @@ deny from 195.54.56.0/21
 deny from 195.54.64.0/18
 deny from 195.54.128.0/19
 deny from 195.54.160.0/23
-deny from 195.54.164.0/23
+deny from 195.54.164.0/22
 deny from 195.54.168.0/21
 deny from 195.54.182.0/23
 deny from 195.54.184.0/21
