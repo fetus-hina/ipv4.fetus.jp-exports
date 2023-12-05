@@ -1453,7 +1453,7 @@ Require not ip 131.161.240.0/22
 Require not ip 131.161.248.0/22
 Require not ip 131.196.4.0/22
 Require not ip 131.196.16.0/20
-Require not ip 131.196.40.0/22
+Require not ip 131.196.40.0/21
 Require not ip 131.196.48.0/22
 Require not ip 131.196.56.0/22
 Require not ip 131.196.64.0/21
@@ -3112,7 +3112,8 @@ Require not ip 179.42.92.0/23
 Require not ip 179.42.96.0/19
 Require not ip 179.42.128.0/19
 Require not ip 179.43.4.0/22
-Require not ip 179.43.8.0/21
+Require not ip 179.43.8.0/22
+Require not ip 179.43.12.0/24
 Require not ip 179.43.16.0/20
 Require not ip 179.43.32.0/19
 Require not ip 179.48.0.0/19

@@ -1153,8 +1153,10 @@ deny from 23.166.226.0/24
 deny from 23.166.240.0/23
 deny from 23.166.248.0/24
 deny from 23.167.0.0/24
+deny from 23.167.8.0/24
 deny from 23.167.16.0/24
 deny from 23.167.32.0/24
+deny from 23.167.40.0/24
 deny from 23.167.96.0/24
 deny from 23.167.112.0/24
 deny from 23.167.128.0/24
@@ -23085,7 +23087,7 @@ deny from 209.142.128.0/17
 deny from 209.143.0.0/16
 deny from 209.144.0.0/16
 deny from 209.145.0.0/19
-deny from 209.145.32.0/21
+deny from 209.145.32.0/22
 deny from 209.145.41.0/24
 deny from 209.145.42.0/23
 deny from 209.145.44.0/22
