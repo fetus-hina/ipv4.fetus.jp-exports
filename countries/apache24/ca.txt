@@ -776,7 +776,13 @@ Require not ip 66.212.160.0/19
 Require not ip 66.220.172.0/22
 Require not ip 66.220.192.0/20
 Require not ip 66.222.128.0/17
-Require not ip 66.223.0.0/17
+Require not ip 66.223.0.0/18
+Require not ip 66.223.64.0/19
+Require not ip 66.223.96.0/23
+Require not ip 66.223.98.0/24
+Require not ip 66.223.100.0/22
+Require not ip 66.223.104.0/21
+Require not ip 66.223.112.0/20
 Require not ip 66.225.128.0/18
 Require not ip 66.226.64.0/21
 Require not ip 66.226.80.0/20
