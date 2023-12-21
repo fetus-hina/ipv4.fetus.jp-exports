@@ -1612,7 +1612,12 @@ deny from 150.2.0.0/15
 deny from 150.4.0.0/14
 deny from 150.8.0.0/13
 deny from 150.16.0.0/12
-deny from 150.32.0.0/11
+deny from 150.32.0.0/13
+deny from 150.40.0.0/17
+deny from 150.41.0.0/16
+deny from 150.42.0.0/15
+deny from 150.44.0.0/14
+deny from 150.48.0.0/12
 deny from 150.64.0.0/12
 deny from 150.80.0.0/13
 deny from 150.88.0.0/14

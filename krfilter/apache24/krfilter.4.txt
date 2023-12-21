@@ -4289,6 +4289,7 @@ Require not ip 64.38.96.0/21
 Require not ip 64.38.104.0/22
 Require not ip 64.39.233.0/24
 Require not ip 64.39.236.0/24
+Require not ip 64.39.238.0/24
 Require not ip 64.43.0.0/17
 Require not ip 64.43.128.0/18
 Require not ip 64.52.164.0/22
@@ -4925,8 +4926,6 @@ Require not ip 78.192.0.0/10
 Require not ip 79.0.0.0/10
 Require not ip 79.64.0.0/15
 Require not ip 79.72.0.0/16
-Require not ip 79.73.64.0/18
-Require not ip 79.73.128.0/17
 Require not ip 79.74.0.0/16
 Require not ip 79.76.0.0/14
 Require not ip 79.80.0.0/12
@@ -5597,7 +5596,6 @@ Require not ip 81.29.224.0/20
 Require not ip 81.30.0.0/19
 Require not ip 81.30.32.0/20
 Require not ip 81.30.64.0/20
-Require not ip 81.30.96.0/20
 Require not ip 81.30.128.0/19
 Require not ip 81.30.224.0/19
 Require not ip 81.31.32.0/19
@@ -7130,7 +7128,8 @@ Require not ip 88.87.0.0/18
 Require not ip 88.87.96.0/19
 Require not ip 88.87.128.0/17
 Require not ip 88.88.0.0/13
-Require not ip 88.96.0.0/11
+Require not ip 88.96.0.0/13
+Require not ip 88.112.0.0/12
 Require not ip 88.128.0.0/14
 Require not ip 88.132.0.0/15
 Require not ip 88.134.0.0/16
@@ -9589,6 +9588,7 @@ Require not ip 91.217.36.0/22
 Require not ip 91.217.40.0/23
 Require not ip 91.217.44.0/23
 Require not ip 91.217.48.0/23
+Require not ip 91.217.50.0/24
 Require not ip 91.217.52.0/22
 Require not ip 91.217.56.0/23
 Require not ip 91.217.82.0/23
@@ -22961,7 +22961,7 @@ Require not ip 188.65.136.0/21
 Require not ip 188.65.144.0/20
 Require not ip 188.65.161.0/24
 Require not ip 188.65.163.0/24
-Require not ip 188.65.164.0/24
+Require not ip 188.65.164.0/23
 Require not ip 188.65.168.0/21
 Require not ip 188.65.176.0/20
 Require not ip 188.65.192.0/20
@@ -34259,7 +34259,8 @@ Require not ip 217.175.64.0/20
 Require not ip 217.175.96.0/19
 Require not ip 217.175.160.0/19
 Require not ip 217.175.192.0/18
-Require not ip 217.176.0.0/15
+Require not ip 217.176.0.0/16
+Require not ip 217.177.0.0/17
 Require not ip 217.179.0.0/16
 Require not ip 217.180.0.0/17
 Require not ip 217.180.128.0/18
