@@ -2835,7 +2835,6 @@
 -A RULE1 -s 177.8.64.0/22      -j RULE2
 -A RULE1 -s 177.8.69.0/24      -j RULE2
 -A RULE1 -s 177.8.70.0/23      -j RULE2
--A RULE1 -s 177.8.72.0/21      -j RULE2
 -A RULE1 -s 177.8.80.0/20      -j RULE2
 -A RULE1 -s 177.8.96.0/19      -j RULE2
 -A RULE1 -s 177.8.128.0/17     -j RULE2
