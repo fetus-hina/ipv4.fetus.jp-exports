@@ -121,6 +121,7 @@ deny from 80.70.0.0/20
 deny from 80.71.64.0/19
 deny from 80.71.128.0/20
 deny from 80.72.144.0/20
+deny from 80.75.208.0/24
 deny from 80.77.64.0/20
 deny from 80.82.96.0/20
 deny from 80.88.128.0/19
@@ -216,7 +217,6 @@ deny from 87.116.0.0/18
 deny from 87.238.248.0/21
 deny from 87.239.64.0/21
 deny from 88.83.64.0/19
-deny from 88.135.72.0/22
 deny from 88.212.64.0/18
 deny from 88.218.176.0/22
 deny from 89.19.52.0/22
