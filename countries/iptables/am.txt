@@ -7,6 +7,7 @@
 -A RULE1 -s 5.134.80.0/21      -j RULE2
 -A RULE1 -s 31.7.160.0/21      -j RULE2
 -A RULE1 -s 31.47.192.0/21     -j RULE2
+-A RULE1 -s 31.128.60.0/24     -j RULE2
 -A RULE1 -s 31.132.72.0/21     -j RULE2
 -A RULE1 -s 31.184.232.0/22    -j RULE2
 -A RULE1 -s 37.26.168.0/21     -j RULE2

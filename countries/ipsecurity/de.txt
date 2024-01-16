@@ -79,6 +79,7 @@
   <add allowed="false" ipAddress="5.61.211.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="5.62.64.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="5.62.96.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="5.63.20.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="5.63.32.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="5.63.176.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="5.75.128.0" subnetMask="255.255.128.0" />
@@ -2580,6 +2581,7 @@
   <add allowed="false" ipAddress="109.199.96.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="109.199.160.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="109.205.176.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="109.205.198.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="109.224.243.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="109.226.128.0" subnetMask="255.255.192.0" />
   <add allowed="false" ipAddress="109.230.96.0" subnetMask="255.255.240.0" />
@@ -5136,10 +5138,7 @@
   <add allowed="false" ipAddress="192.108.24.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="192.108.26.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="192.108.31.0" subnetMask="255.255.255.0" />
-  <add allowed="false" ipAddress="192.108.32.0" subnetMask="255.255.254.0" />
-  <add allowed="false" ipAddress="192.108.34.0" subnetMask="255.255.255.0" />
-  <add allowed="false" ipAddress="192.108.45.0" subnetMask="255.255.255.0" />
-  <add allowed="false" ipAddress="192.108.46.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="192.108.32.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="192.108.48.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="192.108.51.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="192.108.52.0" subnetMask="255.255.252.0" />
