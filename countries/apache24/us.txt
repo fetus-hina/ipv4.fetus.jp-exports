@@ -3714,6 +3714,7 @@ Require not ip 66.221.0.0/16
 Require not ip 66.222.0.0/17
 Require not ip 66.223.32.0/20
 Require not ip 66.223.49.0/24
+Require not ip 66.223.63.0/24
 Require not ip 66.223.64.0/20
 Require not ip 66.223.99.0/24
 Require not ip 66.223.128.0/17
@@ -20385,11 +20386,7 @@ Require not ip 204.27.226.0/23
 Require not ip 204.27.228.0/22
 Require not ip 204.27.232.0/21
 Require not ip 204.27.240.0/20
-Require not ip 204.28.0.0/21
-Require not ip 204.28.8.0/23
-Require not ip 204.28.12.0/22
-Require not ip 204.28.16.0/20
-Require not ip 204.28.32.0/19
+Require not ip 204.28.0.0/18
 Require not ip 204.28.64.0/19
 Require not ip 204.28.96.0/23
 Require not ip 204.28.98.0/24

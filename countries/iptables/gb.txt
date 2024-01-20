@@ -6165,6 +6165,7 @@
 -A RULE1 -s 194.5.44.0/22      -j RULE2
 -A RULE1 -s 194.5.104.0/22     -j RULE2
 -A RULE1 -s 194.5.216.0/22     -j RULE2
+-A RULE1 -s 194.5.252.0/24     -j RULE2
 -A RULE1 -s 194.6.0.0/17       -j RULE2
 -A RULE1 -s 194.6.234.0/23     -j RULE2
 -A RULE1 -s 194.6.244.0/24     -j RULE2
