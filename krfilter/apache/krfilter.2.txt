@@ -12275,6 +12275,10 @@ deny from 157.15.0.0/22
 deny from 157.15.4.0/24
 deny from 157.15.8.0/22
 deny from 157.15.12.0/23
+deny from 157.15.16.0/23
+deny from 157.15.24.0/23
+deny from 157.15.26.0/24
+deny from 157.15.28.0/23
 deny from 157.18.0.0/16
 deny from 157.32.0.0/12
 deny from 157.48.0.0/14
@@ -14172,7 +14176,11 @@ deny from 202.181.8.0/22
 deny from 202.181.24.0/21
 deny from 202.181.80.0/21
 deny from 202.181.112.0/20
-deny from 202.181.128.0/19
+deny from 202.181.128.0/20
+deny from 202.181.144.0/21
+deny from 202.181.152.0/24
+deny from 202.181.154.0/23
+deny from 202.181.156.0/22
 deny from 202.181.160.0/20
 deny from 202.181.176.0/24
 deny from 202.181.178.0/23
