@@ -1658,7 +1658,9 @@ Require not ip 154.34.0.0/16
 Require not ip 155.160.0.0/16
 Require not ip 157.1.0.0/16
 Require not ip 157.2.0.0/15
-Require not ip 157.4.0.0/14
+Require not ip 157.4.0.0/16
+Require not ip 157.5.0.0/17
+Require not ip 157.6.0.0/15
 Require not ip 157.8.0.0/15
 Require not ip 157.10.209.0/24
 Require not ip 157.11.0.0/16
@@ -1671,7 +1673,9 @@ Require not ip 157.19.0.0/16
 Require not ip 157.63.0.0/16
 Require not ip 157.64.0.0/15
 Require not ip 157.67.0.0/16
-Require not ip 157.68.0.0/14
+Require not ip 157.68.0.0/15
+Require not ip 157.70.128.0/17
+Require not ip 157.71.0.0/16
 Require not ip 157.72.0.0/13
 Require not ip 157.80.0.0/16
 Require not ip 157.82.0.0/16

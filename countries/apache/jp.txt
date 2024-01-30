@@ -1658,7 +1658,9 @@ deny from 154.34.0.0/16
 deny from 155.160.0.0/16
 deny from 157.1.0.0/16
 deny from 157.2.0.0/15
-deny from 157.4.0.0/14
+deny from 157.4.0.0/16
+deny from 157.5.0.0/17
+deny from 157.6.0.0/15
 deny from 157.8.0.0/15
 deny from 157.10.209.0/24
 deny from 157.11.0.0/16
@@ -1671,7 +1673,9 @@ deny from 157.19.0.0/16
 deny from 157.63.0.0/16
 deny from 157.64.0.0/15
 deny from 157.67.0.0/16
-deny from 157.68.0.0/14
+deny from 157.68.0.0/15
+deny from 157.70.128.0/17
+deny from 157.71.0.0/16
 deny from 157.72.0.0/13
 deny from 157.80.0.0/16
 deny from 157.82.0.0/16
