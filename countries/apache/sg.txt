@@ -170,6 +170,7 @@ deny from 64.120.110.0/23
 deny from 64.124.188.0/23
 deny from 64.127.224.0/19
 deny from 66.96.192.0/19
+deny from 66.118.255.0/24
 deny from 66.228.0.0/20
 deny from 76.73.0.0/17
 deny from 80.238.128.0/17
@@ -836,6 +837,7 @@ deny from 125.56.128.0/17
 deny from 125.252.192.0/18
 deny from 128.94.0.0/16
 deny from 128.106.0.0/16
+deny from 128.254.192.0/22
 deny from 129.126.0.0/16
 deny from 129.226.0.0/15
 deny from 132.147.64.0/18
