@@ -301,7 +301,6 @@ Require not ip 61.47.56.0/24
 Require not ip 61.47.64.0/23
 Require not ip 61.47.66.0/24
 Require not ip 61.47.72.0/21
-Require not ip 61.47.88.0/21
 Require not ip 61.47.98.0/23
 Require not ip 61.47.102.0/23
 Require not ip 61.47.108.0/22
@@ -1659,7 +1658,8 @@ Require not ip 155.160.0.0/16
 Require not ip 157.1.0.0/16
 Require not ip 157.2.0.0/15
 Require not ip 157.4.0.0/16
-Require not ip 157.5.0.0/17
+Require not ip 157.5.0.0/19
+Require not ip 157.5.32.0/20
 Require not ip 157.6.0.0/15
 Require not ip 157.8.0.0/15
 Require not ip 157.10.209.0/24
