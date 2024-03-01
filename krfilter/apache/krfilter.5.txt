@@ -2258,7 +2258,9 @@ deny from 89.255.64.0/18
 deny from 90.150.0.0/15
 deny from 90.154.0.0/17
 deny from 90.155.128.0/17
-deny from 90.156.128.0/19
+deny from 90.156.128.0/20
+deny from 90.156.148.0/22
+deny from 90.156.152.0/21
 deny from 90.156.168.0/21
 deny from 90.156.176.0/20
 deny from 90.156.200.0/21
