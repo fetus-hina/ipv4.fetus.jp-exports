@@ -1624,7 +1624,14 @@ Require not ip 149.234.190.0/24
 Require not ip 150.1.0.0/16
 Require not ip 150.2.0.0/15
 Require not ip 150.4.0.0/14
-Require not ip 150.8.0.0/13
+Require not ip 150.8.0.0/16
+Require not ip 150.9.0.0/17
+Require not ip 150.9.128.0/18
+Require not ip 150.9.192.0/20
+Require not ip 150.9.208.0/21
+Require not ip 150.9.224.0/19
+Require not ip 150.10.0.0/15
+Require not ip 150.12.0.0/14
 Require not ip 150.16.0.0/12
 Require not ip 150.32.0.0/13
 Require not ip 150.40.0.0/17
