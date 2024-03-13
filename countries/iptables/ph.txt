@@ -569,6 +569,7 @@
 -A RULE1 -s 198.200.2.0/23     -j RULE2
 -A RULE1 -s 202.0.16.0/20      -j RULE2
 -A RULE1 -s 202.0.91.0/24      -j RULE2
+-A RULE1 -s 202.0.116.0/24     -j RULE2
 -A RULE1 -s 202.0.144.0/22     -j RULE2
 -A RULE1 -s 202.4.0.0/20       -j RULE2
 -A RULE1 -s 202.4.174.0/24     -j RULE2
