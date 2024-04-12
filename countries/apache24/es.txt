@@ -1244,7 +1244,8 @@ Require not ip 149.126.32.0/20
 Require not ip 149.126.160.0/21
 Require not ip 150.128.0.0/16
 Require not ip 150.214.0.0/16
-Require not ip 150.241.0.0/16
+Require not ip 150.241.0.0/18
+Require not ip 150.241.128.0/17
 Require not ip 150.244.0.0/16
 Require not ip 151.182.0.0/16
 Require not ip 151.237.56.0/22
@@ -3125,6 +3126,7 @@ Require not ip 201.49.188.0/22
 Require not ip 201.77.48.0/20
 Require not ip 201.148.168.0/22
 Require not ip 202.4.187.0/24
+Require not ip 202.58.108.0/22
 Require not ip 203.78.160.0/24
 Require not ip 203.88.96.0/22
 Require not ip 206.204.128.0/18
