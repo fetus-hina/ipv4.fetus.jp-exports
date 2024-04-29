@@ -1538,7 +1538,10 @@ Require not ip 126.209.128.0/17
 Require not ip 126.210.0.0/15
 Require not ip 126.212.0.0/14
 Require not ip 126.216.0.0/13
-Require not ip 126.224.0.0/12
+Require not ip 126.224.0.0/14
+Require not ip 126.228.0.0/15
+Require not ip 126.230.0.0/16
+Require not ip 126.232.0.0/13
 Require not ip 126.240.0.0/15
 Require not ip 126.244.0.0/14
 Require not ip 126.248.0.0/13
@@ -2941,7 +2944,6 @@ Require not ip 220.156.192.0/18
 Require not ip 220.157.0.0/18
 Require not ip 220.157.128.0/17
 Require not ip 220.158.0.0/17
-Require not ip 220.158.216.0/22
 Require not ip 220.158.248.0/22
 Require not ip 220.159.0.0/16
 Require not ip 220.208.0.0/12
