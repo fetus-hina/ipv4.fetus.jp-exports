@@ -1636,7 +1636,8 @@ deny from 150.10.0.0/15
 deny from 150.12.0.0/14
 deny from 150.16.0.0/12
 deny from 150.32.0.0/13
-deny from 150.40.0.0/17
+deny from 150.40.0.0/18
+deny from 150.40.64.0/19
 deny from 150.41.0.0/16
 deny from 150.42.0.0/15
 deny from 150.44.0.0/14
