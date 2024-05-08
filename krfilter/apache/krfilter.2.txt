@@ -12466,15 +12466,15 @@ deny from 157.66.152.0/22
 deny from 157.66.164.0/22
 deny from 157.66.168.0/21
 deny from 157.66.176.0/22
-deny from 157.66.184.0/22
-deny from 157.66.188.0/23
-deny from 157.66.190.0/24
+deny from 157.66.184.0/21
 deny from 157.66.192.0/23
 deny from 157.66.200.0/21
 deny from 157.66.208.0/21
 deny from 157.66.226.0/23
 deny from 157.66.228.0/22
 deny from 157.66.232.0/21
+deny from 157.66.240.0/21
+deny from 157.66.248.0/22
 deny from 157.119.8.0/21
 deny from 157.119.16.0/20
 deny from 157.119.32.0/20
@@ -12514,6 +12514,8 @@ deny from 159.117.144.0/20
 deny from 159.117.224.0/19
 deny from 159.226.0.0/16
 deny from 160.19.16.0/22
+deny from 160.19.32.0/22
+deny from 160.19.40.0/23
 deny from 160.19.48.0/21
 deny from 160.19.64.0/22
 deny from 160.19.208.0/20
