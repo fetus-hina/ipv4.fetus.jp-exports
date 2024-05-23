@@ -164,6 +164,7 @@
 -A RULE1 -s 200.5.4.0/22       -j RULE2
 -A RULE1 -s 200.5.8.0/24       -j RULE2
 -A RULE1 -s 200.5.11.0/24      -j RULE2
+-A RULE1 -s 200.5.16.0/20      -j RULE2
 -A RULE1 -s 200.50.0.0/19      -j RULE2
 -A RULE1 -s 204.15.144.0/21    -j RULE2
 -A RULE1 -s 204.27.224.0/24    -j RULE2
