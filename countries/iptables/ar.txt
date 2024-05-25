@@ -760,6 +760,7 @@
 -A RULE1 -s 179.0.0.0/23       -j RULE2
 -A RULE1 -s 179.0.4.0/22       -j RULE2
 -A RULE1 -s 179.0.11.0/24      -j RULE2
+-A RULE1 -s 179.0.12.0/23      -j RULE2
 -A RULE1 -s 179.0.14.0/24      -j RULE2
 -A RULE1 -s 179.0.25.0/24      -j RULE2
 -A RULE1 -s 179.0.130.0/23     -j RULE2
