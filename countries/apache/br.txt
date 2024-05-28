@@ -3394,7 +3394,14 @@ deny from 187.2.0.0/15
 deny from 187.4.0.0/14
 deny from 187.8.0.0/13
 deny from 187.16.0.0/12
-deny from 187.32.0.0/12
+deny from 187.32.0.0/16
+deny from 187.33.0.0/17
+deny from 187.33.128.0/20
+deny from 187.33.160.0/19
+deny from 187.33.192.0/18
+deny from 187.34.0.0/15
+deny from 187.36.0.0/14
+deny from 187.40.0.0/13
 deny from 187.48.0.0/16
 deny from 187.49.0.0/21
 deny from 187.49.11.0/24

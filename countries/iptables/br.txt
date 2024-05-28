@@ -3394,7 +3394,14 @@
 -A RULE1 -s 187.4.0.0/14       -j RULE2
 -A RULE1 -s 187.8.0.0/13       -j RULE2
 -A RULE1 -s 187.16.0.0/12      -j RULE2
--A RULE1 -s 187.32.0.0/12      -j RULE2
+-A RULE1 -s 187.32.0.0/16      -j RULE2
+-A RULE1 -s 187.33.0.0/17      -j RULE2
+-A RULE1 -s 187.33.128.0/20    -j RULE2
+-A RULE1 -s 187.33.160.0/19    -j RULE2
+-A RULE1 -s 187.33.192.0/18    -j RULE2
+-A RULE1 -s 187.34.0.0/15      -j RULE2
+-A RULE1 -s 187.36.0.0/14      -j RULE2
+-A RULE1 -s 187.40.0.0/13      -j RULE2
 -A RULE1 -s 187.48.0.0/16      -j RULE2
 -A RULE1 -s 187.49.0.0/21      -j RULE2
 -A RULE1 -s 187.49.11.0/24     -j RULE2
