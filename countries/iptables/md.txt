@@ -1,6 +1,5 @@
 -A RULE1 -s 2.56.0.0/22        -j RULE2
 -A RULE1 -s 2.57.152.0/22      -j RULE2
--A RULE1 -s 2.57.215.0/24      -j RULE2
 -A RULE1 -s 2.59.204.0/22      -j RULE2
 -A RULE1 -s 5.32.168.0/21      -j RULE2
 -A RULE1 -s 5.56.64.0/18       -j RULE2
@@ -402,7 +401,6 @@
 -A RULE1 -s 194.50.188.0/23    -j RULE2
 -A RULE1 -s 194.50.200.0/23    -j RULE2
 -A RULE1 -s 194.50.206.0/23    -j RULE2
--A RULE1 -s 194.56.152.0/23    -j RULE2
 -A RULE1 -s 194.59.247.0/24    -j RULE2
 -A RULE1 -s 194.62.42.0/24     -j RULE2
 -A RULE1 -s 194.104.136.0/24   -j RULE2
