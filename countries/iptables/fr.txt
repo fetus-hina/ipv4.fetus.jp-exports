@@ -1,5 +1,5 @@
 -A RULE1 -s 1.179.112.0/20     -j RULE2
--A RULE1 -s 2.2.0.0/15         -j RULE2
+-A RULE1 -s 2.3.0.0/16         -j RULE2
 -A RULE1 -s 2.4.0.0/14         -j RULE2
 -A RULE1 -s 2.8.0.0/13         -j RULE2
 -A RULE1 -s 2.56.80.0/22       -j RULE2

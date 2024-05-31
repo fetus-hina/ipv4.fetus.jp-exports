@@ -6448,6 +6448,7 @@
 -A RULE1 -s 193.7.216.0/22     -j RULE2
 -A RULE1 -s 193.8.0.0/24       -j RULE2
 -A RULE1 -s 193.8.74.0/24      -j RULE2
+-A RULE1 -s 193.8.201.0/24     -j RULE2
 -A RULE1 -s 193.8.208.0/22     -j RULE2
 -A RULE1 -s 193.9.17.0/24      -j RULE2
 -A RULE1 -s 193.9.20.0/24      -j RULE2
