@@ -190,6 +190,7 @@
 -A RULE1 -s 37.247.120.0/21    -j RULE2
 -A RULE1 -s 37.252.96.0/21     -j RULE2
 -A RULE1 -s 37.252.220.0/24    -j RULE2
+-A RULE1 -s 43.230.184.0/22    -j RULE2
 -A RULE1 -s 43.251.0.0/22      -j RULE2
 -A RULE1 -s 45.6.44.0/22       -j RULE2
 -A RULE1 -s 45.6.48.0/22       -j RULE2

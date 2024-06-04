@@ -227,6 +227,7 @@ deny from 23.178.64.0/24
 deny from 23.179.0.0/22
 deny from 23.179.40.0/24
 deny from 23.179.160.0/24
+deny from 23.179.232.0/24
 deny from 23.180.64.0/24
 deny from 23.180.80.0/24
 deny from 23.181.128.0/24
@@ -735,7 +736,9 @@ deny from 66.130.0.0/15
 deny from 66.132.128.0/22
 deny from 66.132.132.0/24
 deny from 66.132.135.0/24
-deny from 66.132.136.0/21
+deny from 66.132.136.0/22
+deny from 66.132.141.0/24
+deny from 66.132.142.0/23
 deny from 66.132.144.0/22
 deny from 66.132.149.0/24
 deny from 66.132.150.0/23
