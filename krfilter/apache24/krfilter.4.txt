@@ -33409,7 +33409,12 @@ Require not ip 212.103.128.0/19
 Require not ip 212.103.192.0/18
 Require not ip 212.104.0.0/18
 Require not ip 212.104.96.0/19
-Require not ip 212.104.128.0/18
+Require not ip 212.104.128.0/20
+Require not ip 212.104.144.0/22
+Require not ip 212.104.148.0/23
+Require not ip 212.104.150.0/24
+Require not ip 212.104.152.0/21
+Require not ip 212.104.160.0/19
 Require not ip 212.104.192.0/20
 Require not ip 212.104.208.0/23
 Require not ip 212.104.210.0/24
