@@ -14200,7 +14200,6 @@ deny from 146.66.224.0/19
 deny from 146.70.0.0/16
 deny from 146.71.94.0/23
 deny from 146.72.0.0/16
-deny from 146.77.0.0/16
 deny from 146.80.0.0/15
 deny from 146.87.0.0/16
 deny from 146.88.19.0/24
@@ -30490,7 +30489,9 @@ deny from 194.164.225.0/24
 deny from 194.164.226.0/23
 deny from 194.164.228.0/22
 deny from 194.164.232.0/21
-deny from 194.164.240.0/21
+deny from 194.164.241.0/24
+deny from 194.164.242.0/23
+deny from 194.164.244.0/22
 deny from 194.165.4.0/23
 deny from 194.165.8.0/21
 deny from 194.165.24.0/22
