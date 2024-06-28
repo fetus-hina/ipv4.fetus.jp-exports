@@ -6022,7 +6022,6 @@ deny from 83.118.192.0/19
 deny from 83.118.224.0/22
 deny from 83.119.0.0/18
 deny from 83.124.0.0/14
-deny from 83.128.0.0/16
 deny from 83.131.0.0/16
 deny from 83.132.0.0/14
 deny from 83.136.0.0/21
@@ -9515,8 +9514,7 @@ deny from 91.213.226.0/24
 deny from 91.213.228.0/23
 deny from 91.213.232.0/24
 deny from 91.213.234.0/23
-deny from 91.213.236.0/24
-deny from 91.213.238.0/23
+deny from 91.213.236.0/22
 deny from 91.213.241.0/24
 deny from 91.213.242.0/24
 deny from 91.213.246.0/24
@@ -9930,7 +9928,7 @@ deny from 91.221.186.0/23
 deny from 91.221.196.0/23
 deny from 91.221.204.0/22
 deny from 91.221.212.0/22
-deny from 91.221.222.0/24
+deny from 91.221.222.0/23
 deny from 91.221.224.0/22
 deny from 91.221.230.0/23
 deny from 91.221.236.0/22
@@ -14264,6 +14262,7 @@ deny from 146.255.160.0/20
 deny from 146.255.176.0/21
 deny from 146.255.187.0/24
 deny from 146.255.189.0/24
+deny from 146.255.190.0/24
 deny from 147.7.0.0/16
 deny from 147.12.0.0/15
 deny from 147.14.0.0/16
@@ -14723,7 +14722,9 @@ deny from 156.67.32.0/22
 deny from 156.67.36.0/23
 deny from 156.67.40.0/21
 deny from 156.67.52.0/22
-deny from 156.67.56.0/21
+deny from 156.67.56.0/22
+deny from 156.67.61.0/24
+deny from 156.67.62.0/23
 deny from 156.67.64.0/18
 deny from 156.67.128.0/17
 deny from 156.83.0.0/16
@@ -18014,6 +18015,8 @@ deny from 185.66.192.0/21
 deny from 185.66.200.0/23
 deny from 185.66.204.0/22
 deny from 185.66.208.0/22
+deny from 185.66.212.0/23
+deny from 185.66.214.0/24
 deny from 185.66.220.0/22
 deny from 185.66.232.0/21
 deny from 185.66.240.0/21
@@ -21458,6 +21461,7 @@ deny from 185.196.28.0/23
 deny from 185.196.30.0/24
 deny from 185.196.32.0/19
 deny from 185.196.64.0/21
+deny from 185.196.72.0/24
 deny from 185.196.76.0/22
 deny from 185.196.80.0/22
 deny from 185.196.88.0/21
@@ -28496,7 +28500,6 @@ deny from 194.0.96.0/21
 deny from 194.0.104.0/22
 deny from 194.0.116.0/22
 deny from 194.0.128.0/23
-deny from 194.0.132.0/24
 deny from 194.0.134.0/23
 deny from 194.0.139.0/24
 deny from 194.0.140.0/23
