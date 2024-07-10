@@ -550,6 +550,7 @@ deny from 5.183.32.0/22
 deny from 5.183.40.0/21
 deny from 5.183.48.0/20
 deny from 5.183.72.0/22
+deny from 5.183.79.0/24
 deny from 5.183.80.0/21
 deny from 5.183.92.0/22
 deny from 5.183.96.0/22
@@ -4196,9 +4197,7 @@ deny from 62.182.16.0/21
 deny from 62.182.36.0/22
 deny from 62.182.40.0/21
 deny from 62.182.56.0/21
-deny from 62.182.96.0/22
-deny from 62.182.102.0/23
-deny from 62.182.104.0/21
+deny from 62.182.96.0/20
 deny from 62.182.112.0/21
 deny from 62.182.144.0/21
 deny from 62.182.176.0/21
@@ -12697,6 +12696,7 @@ deny from 103.225.68.0/23
 deny from 103.226.192.0/22
 deny from 103.228.3.0/24
 deny from 103.228.128.0/22
+deny from 103.228.168.0/22
 deny from 103.229.36.0/22
 deny from 103.229.81.0/24
 deny from 103.229.168.0/22
@@ -15063,7 +15063,7 @@ deny from 161.51.255.0/24
 deny from 161.52.0.0/15
 deny from 161.54.0.0/16
 deny from 161.59.0.0/16
-deny from 161.67.0.0/16
+deny from 161.66.0.0/15
 deny from 161.72.0.0/15
 deny from 161.74.0.0/16
 deny from 161.76.0.0/16
@@ -29564,7 +29564,8 @@ deny from 194.62.24.0/22
 deny from 194.62.28.0/23
 deny from 194.62.32.0/21
 deny from 194.62.41.0/24
-deny from 194.62.44.0/22
+deny from 194.62.44.0/23
+deny from 194.62.47.0/24
 deny from 194.62.56.0/21
 deny from 194.62.65.0/24
 deny from 194.62.68.0/22
@@ -29716,6 +29717,7 @@ deny from 194.88.28.0/23
 deny from 194.88.32.0/19
 deny from 194.88.64.0/19
 deny from 194.88.104.0/22
+deny from 194.88.112.0/21
 deny from 194.88.128.0/22
 deny from 194.88.132.0/23
 deny from 194.88.144.0/22
@@ -30221,8 +30223,7 @@ deny from 194.140.224.0/23
 deny from 194.140.226.0/24
 deny from 194.140.229.0/24
 deny from 194.140.230.0/23
-deny from 194.140.232.0/23
-deny from 194.140.234.0/24
+deny from 194.140.232.0/22
 deny from 194.140.236.0/23
 deny from 194.140.238.0/24
 deny from 194.140.240.0/22
@@ -32751,6 +32752,7 @@ deny from 198.200.8.0/23
 deny from 198.205.12.0/23
 deny from 198.205.14.0/24
 deny from 198.205.102.0/24
+deny from 198.206.139.0/24
 deny from 198.217.240.0/21
 deny from 198.244.128.0/17
 deny from 199.4.158.0/24
