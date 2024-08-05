@@ -7102,6 +7102,10 @@ deny from 125.253.64.0/20
 deny from 125.253.80.0/21
 deny from 125.253.88.0/22
 deny from 125.253.92.0/23
+deny from 126.190.0.0/15
+deny from 126.210.0.0/16
+deny from 126.226.0.0/16
+deny from 126.228.0.0/16
 deny from 126.231.0.0/16
 deny from 126.242.0.0/15
 deny from 128.0.60.0/22
@@ -8407,7 +8411,6 @@ deny from 142.65.0.0/16
 deny from 142.77.0.0/16
 deny from 142.79.0.0/17
 deny from 142.79.128.0/18
-deny from 142.79.192.0/19
 deny from 142.88.0.0/16
 deny from 142.91.0.0/21
 deny from 142.91.16.0/20
