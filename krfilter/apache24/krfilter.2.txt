@@ -56,6 +56,7 @@ Require not ip 2.59.100.0/22
 Require not ip 2.59.152.0/22
 Require not ip 2.59.224.0/22
 Require not ip 5.42.210.0/24
+Require not ip 5.42.212.0/24
 Require not ip 5.42.218.0/23
 Require not ip 5.154.174.0/24
 Require not ip 5.172.179.0/24
@@ -1916,6 +1917,7 @@ Require not ip 87.239.254.0/23
 Require not ip 87.247.144.0/22
 Require not ip 88.135.74.0/24
 Require not ip 88.151.8.0/24
+Require not ip 88.151.112.0/24
 Require not ip 88.151.119.0/24
 Require not ip 88.214.48.0/22
 Require not ip 88.218.48.0/22
@@ -1941,6 +1943,7 @@ Require not ip 91.204.224.0/22
 Require not ip 91.205.230.0/24
 Require not ip 91.209.31.0/24
 Require not ip 91.209.182.0/24
+Require not ip 91.212.32.0/24
 Require not ip 91.212.103.0/24
 Require not ip 91.212.132.0/24
 Require not ip 91.212.169.0/24
@@ -8484,7 +8487,8 @@ Require not ip 103.184.16.0/21
 Require not ip 103.184.26.0/23
 Require not ip 103.184.28.0/22
 Require not ip 103.184.36.0/22
-Require not ip 103.184.40.0/21
+Require not ip 103.184.40.0/22
+Require not ip 103.184.46.0/23
 Require not ip 103.184.48.0/21
 Require not ip 103.184.56.0/23
 Require not ip 103.184.60.0/22
@@ -10155,7 +10159,9 @@ Require not ip 103.242.10.0/23
 Require not ip 103.242.12.0/22
 Require not ip 103.242.64.0/22
 Require not ip 103.242.72.0/21
-Require not ip 103.242.80.0/21
+Require not ip 103.242.80.0/22
+Require not ip 103.242.84.0/23
+Require not ip 103.242.86.0/24
 Require not ip 103.242.104.0/21
 Require not ip 103.242.116.0/22
 Require not ip 103.242.120.0/22
@@ -12653,6 +12659,8 @@ Require not ip 160.30.60.0/23
 Require not ip 160.30.64.0/23
 Require not ip 160.30.71.0/24
 Require not ip 160.30.72.0/21
+Require not ip 160.30.82.0/23
+Require not ip 160.30.84.0/23
 Require not ip 160.202.8.0/21
 Require not ip 160.202.36.0/22
 Require not ip 160.202.40.0/21
@@ -13487,6 +13495,7 @@ Require not ip 194.150.72.0/24
 Require not ip 194.156.104.0/22
 Require not ip 194.156.126.0/23
 Require not ip 194.246.40.0/22
+Require not ip 195.35.105.0/24
 Require not ip 195.43.142.0/24
 Require not ip 195.47.194.0/24
 Require not ip 195.64.103.0/24
