@@ -670,7 +670,6 @@
 -A RULE1 -s 66.18.192.0/18     -j RULE2
 -A RULE1 -s 66.22.160.0/20     -j RULE2
 -A RULE1 -s 66.23.0.0/17       -j RULE2
--A RULE1 -s 66.33.0.0/22       -j RULE2
 -A RULE1 -s 66.33.4.0/23       -j RULE2
 -A RULE1 -s 66.33.7.0/24       -j RULE2
 -A RULE1 -s 66.33.20.0/24      -j RULE2
