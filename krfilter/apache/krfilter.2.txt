@@ -8533,7 +8533,6 @@ deny from 103.184.168.0/22
 deny from 103.184.176.0/21
 deny from 103.184.184.0/23
 deny from 103.184.192.0/22
-deny from 103.184.198.0/23
 deny from 103.184.204.0/22
 deny from 103.184.236.0/22
 deny from 103.184.242.0/23
@@ -8576,7 +8575,9 @@ deny from 103.186.14.0/23
 deny from 103.186.16.0/22
 deny from 103.186.26.0/23
 deny from 103.186.30.0/23
-deny from 103.186.32.0/20
+deny from 103.186.32.0/22
+deny from 103.186.36.0/23
+deny from 103.186.40.0/21
 deny from 103.186.48.0/23
 deny from 103.186.54.0/23
 deny from 103.186.58.0/23
