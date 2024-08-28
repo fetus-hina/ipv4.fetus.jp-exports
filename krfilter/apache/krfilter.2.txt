@@ -253,6 +253,7 @@ deny from 31.24.251.0/24
 deny from 31.24.255.0/24
 deny from 31.40.201.0/24
 deny from 31.40.202.0/23
+deny from 31.41.32.0/24
 deny from 31.41.251.0/24
 deny from 31.41.252.0/23
 deny from 31.41.254.0/24
@@ -1413,6 +1414,8 @@ deny from 45.148.104.0/22
 deny from 45.149.16.0/22
 deny from 45.149.28.0/22
 deny from 45.149.68.0/22
+deny from 45.150.112.0/23
+deny from 45.150.114.0/24
 deny from 45.150.252.0/22
 deny from 45.151.28.0/23
 deny from 45.152.24.0/22
@@ -11370,7 +11373,12 @@ deny from 118.88.128.0/17
 deny from 118.89.0.0/16
 deny from 118.91.0.0/17
 deny from 118.91.128.0/19
-deny from 118.91.176.0/20
+deny from 118.91.176.0/23
+deny from 118.91.178.0/24
+deny from 118.91.180.0/22
+deny from 118.91.184.0/22
+deny from 118.91.189.0/24
+deny from 118.91.190.0/23
 deny from 118.91.224.0/19
 deny from 118.94.0.0/15
 deny from 118.96.0.0/14
@@ -12267,9 +12275,7 @@ deny from 150.129.72.0/21
 deny from 150.129.80.0/22
 deny from 150.129.88.0/22
 deny from 150.129.96.0/19
-deny from 150.129.128.0/21
-deny from 150.129.136.0/22
-deny from 150.129.144.0/20
+deny from 150.129.128.0/19
 deny from 150.129.160.0/20
 deny from 150.129.176.0/21
 deny from 150.129.188.0/22
@@ -12700,6 +12706,11 @@ deny from 160.30.152.0/23
 deny from 160.30.194.0/23
 deny from 160.30.196.0/22
 deny from 160.30.203.0/24
+deny from 160.30.206.0/23
+deny from 160.30.210.0/23
+deny from 160.30.214.0/23
+deny from 160.30.216.0/22
+deny from 160.30.220.0/23
 deny from 160.202.8.0/21
 deny from 160.202.36.0/22
 deny from 160.202.40.0/21
@@ -13251,6 +13262,7 @@ deny from 185.117.224.0/24
 deny from 185.118.60.0/22
 deny from 185.124.240.0/24
 deny from 185.128.9.0/24
+deny from 185.128.41.0/24
 deny from 185.128.42.0/23
 deny from 185.128.224.0/24
 deny from 185.130.49.0/24
@@ -13425,7 +13437,7 @@ deny from 193.8.74.0/23
 deny from 193.9.20.0/24
 deny from 193.17.65.0/24
 deny from 193.17.88.0/24
-deny from 193.19.190.0/24
+deny from 193.19.190.0/23
 deny from 193.28.178.0/24
 deny from 193.28.186.0/24
 deny from 193.31.100.0/22
