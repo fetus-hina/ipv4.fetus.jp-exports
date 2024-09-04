@@ -954,6 +954,7 @@ deny from 160.25.254.0/23
 deny from 160.30.0.0/23
 deny from 160.30.111.0/24
 deny from 160.30.120.0/23
+deny from 160.30.248.0/23
 deny from 160.32.240.0/21
 deny from 160.96.0.0/16
 deny from 160.202.136.0/22
@@ -1396,7 +1397,10 @@ deny from 203.124.96.0/19
 deny from 203.125.0.0/16
 deny from 203.126.0.0/15
 deny from 203.135.189.0/24
-deny from 203.142.16.0/20
+deny from 203.142.16.0/21
+deny from 203.142.24.0/23
+deny from 203.142.27.0/24
+deny from 203.142.28.0/22
 deny from 203.143.128.0/19
 deny from 203.147.160.0/19
 deny from 203.147.192.0/19
