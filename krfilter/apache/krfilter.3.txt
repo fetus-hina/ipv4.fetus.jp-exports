@@ -3995,7 +3995,7 @@ deny from 89.169.36.0/22
 deny from 89.169.40.0/21
 deny from 89.169.48.0/22
 deny from 89.169.56.0/21
-deny from 89.169.64.0/18
+deny from 89.169.64.0/19
 deny from 89.169.128.0/17
 deny from 89.175.0.0/16
 deny from 89.178.0.0/15
@@ -17114,11 +17114,12 @@ deny from 160.187.48.0/21
 deny from 160.187.62.0/23
 deny from 160.187.64.0/24
 deny from 160.187.66.0/23
-deny from 160.187.68.0/23
-deny from 160.187.70.0/24
+deny from 160.187.68.0/22
 deny from 160.187.72.0/23
 deny from 160.187.76.0/22
 deny from 160.187.80.0/22
+deny from 160.187.86.0/23
+deny from 160.187.92.0/23
 deny from 160.202.8.0/21
 deny from 160.202.36.0/22
 deny from 160.202.40.0/21
