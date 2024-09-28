@@ -8259,8 +8259,7 @@ deny from 91.92.230.0/24
 deny from 91.92.232.0/22
 deny from 91.92.240.0/20
 deny from 91.94.0.0/15
-deny from 91.96.0.0/15
-deny from 91.99.0.0/16
+deny from 91.96.0.0/14
 deny from 91.100.0.0/15
 deny from 91.102.0.0/20
 deny from 91.102.24.0/21
@@ -14676,6 +14675,7 @@ deny from 151.206.0.0/16
 deny from 151.211.0.0/16
 deny from 151.212.0.0/16
 deny from 151.216.44.0/24
+deny from 151.216.64.0/21
 deny from 151.224.0.0/13
 deny from 151.236.0.0/18
 deny from 151.236.128.0/19

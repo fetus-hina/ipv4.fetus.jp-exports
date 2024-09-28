@@ -1807,8 +1807,7 @@
 -A RULE1 -s 91.90.144.0/20     -j RULE2
 -A RULE1 -s 91.90.167.0/24     -j RULE2
 -A RULE1 -s 91.92.6.0/23       -j RULE2
--A RULE1 -s 91.96.0.0/15       -j RULE2
--A RULE1 -s 91.99.0.0/16       -j RULE2
+-A RULE1 -s 91.96.0.0/14       -j RULE2
 -A RULE1 -s 91.102.8.0/21      -j RULE2
 -A RULE1 -s 91.102.136.0/21    -j RULE2
 -A RULE1 -s 91.103.8.0/21      -j RULE2
