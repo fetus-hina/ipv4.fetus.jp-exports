@@ -1190,7 +1190,7 @@ deny from 45.233.240.0/20
 deny from 45.234.0.0/19
 deny from 45.234.36.0/22
 deny from 45.234.40.0/21
-deny from 45.234.48.0/22
+deny from 45.234.48.0/21
 deny from 45.234.56.0/22
 deny from 45.234.64.0/20
 deny from 45.234.80.0/22
@@ -3195,15 +3195,7 @@ deny from 179.109.104.0/21
 deny from 179.109.112.0/20
 deny from 179.109.128.0/17
 deny from 179.110.0.0/15
-deny from 179.112.0.0/13
-deny from 179.120.0.0/14
-deny from 179.124.0.0/15
-deny from 179.126.0.0/16
-deny from 179.127.0.0/18
-deny from 179.127.64.0/21
-deny from 179.127.80.0/20
-deny from 179.127.96.0/19
-deny from 179.127.128.0/17
+deny from 179.112.0.0/12
 deny from 179.128.0.0/11
 deny from 179.160.0.0/12
 deny from 179.176.0.0/13
