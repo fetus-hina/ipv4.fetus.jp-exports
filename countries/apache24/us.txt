@@ -8213,7 +8213,8 @@ Require not ip 137.209.0.0/16
 Require not ip 137.210.0.0/15
 Require not ip 137.212.0.0/16
 Require not ip 137.216.0.0/16
-Require not ip 137.220.0.0/22
+Require not ip 137.220.0.0/24
+Require not ip 137.220.2.0/23
 Require not ip 137.220.8.0/21
 Require not ip 137.220.32.0/19
 Require not ip 137.221.64.0/18

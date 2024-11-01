@@ -8216,7 +8216,8 @@
   <add allowed="false" ipAddress="137.210.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="137.212.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="137.216.0.0" subnetMask="255.255.0.0" />
-  <add allowed="false" ipAddress="137.220.0.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="137.220.0.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="137.220.2.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="137.220.8.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="137.220.32.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="137.221.64.0" subnetMask="255.255.192.0" />
