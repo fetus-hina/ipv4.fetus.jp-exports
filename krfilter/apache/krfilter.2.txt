@@ -11598,7 +11598,6 @@ deny from 120.73.0.0/16
 deny from 120.76.0.0/14
 deny from 120.80.0.0/13
 deny from 120.88.8.0/21
-deny from 120.88.32.0/20
 deny from 120.88.176.0/20
 deny from 120.88.192.0/18
 deny from 120.89.68.0/22
@@ -12813,6 +12812,7 @@ deny from 160.191.134.0/23
 deny from 160.191.136.0/23
 deny from 160.191.144.0/24
 deny from 160.191.154.0/23
+deny from 160.191.168.0/23
 deny from 160.202.8.0/21
 deny from 160.202.36.0/22
 deny from 160.202.40.0/21
