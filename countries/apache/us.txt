@@ -10,6 +10,8 @@ deny from 2.57.232.0/22
 deny from 2.57.248.0/22
 deny from 2.58.176.0/22
 deny from 2.58.252.0/22
+deny from 2.59.8.0/23
+deny from 2.59.14.0/24
 deny from 3.0.0.0/8
 deny from 4.0.0.0/8
 deny from 5.8.251.0/24
@@ -18,6 +20,7 @@ deny from 5.22.155.0/24
 deny from 5.34.176.0/21
 deny from 5.35.192.0/21
 deny from 5.42.160.0/19
+deny from 5.42.198.0/24
 deny from 5.42.203.0/24
 deny from 5.44.255.0/24
 deny from 5.60.0.0/16
@@ -242,7 +245,9 @@ deny from 23.128.124.0/24
 deny from 23.128.128.0/23
 deny from 23.128.132.0/24
 deny from 23.128.136.0/24
+deny from 23.128.140.0/24
 deny from 23.128.144.0/22
+deny from 23.128.148.0/24
 deny from 23.128.176.0/24
 deny from 23.128.192.0/24
 deny from 23.128.208.0/24
@@ -2114,6 +2119,7 @@ deny from 31.187.92.0/22
 deny from 31.207.0.0/21
 deny from 31.207.56.0/22
 deny from 31.209.128.0/21
+deny from 31.210.18.0/24
 deny from 31.216.56.0/24
 deny from 32.0.0.0/8
 deny from 33.0.0.0/8
@@ -2816,6 +2822,7 @@ deny from 60.254.128.0/18
 deny from 61.14.224.0/22
 deny from 62.3.6.0/24
 deny from 62.3.10.0/24
+deny from 62.3.29.0/24
 deny from 62.3.35.0/24
 deny from 62.32.96.0/19
 deny from 62.41.0.0/20
@@ -2833,10 +2840,12 @@ deny from 62.50.0.0/18
 deny from 62.50.64.0/19
 deny from 62.50.128.0/19
 deny from 62.51.0.0/16
+deny from 62.68.91.0/24
 deny from 62.78.0.0/19
 deny from 62.93.160.0/19
 deny from 62.105.192.0/18
 deny from 62.106.64.0/24
+deny from 62.106.92.0/24
 deny from 62.112.4.0/22
 deny from 62.112.12.0/23
 deny from 62.112.30.0/24
@@ -5689,6 +5698,7 @@ deny from 77.245.48.0/20
 deny from 77.247.0.0/20
 deny from 77.247.116.0/22
 deny from 78.12.0.0/14
+deny from 78.24.206.0/24
 deny from 78.27.192.0/18
 deny from 78.31.204.0/22
 deny from 78.108.112.0/20
@@ -6462,6 +6472,7 @@ deny from 103.78.160.0/22
 deny from 103.81.230.0/23
 deny from 103.83.192.0/22
 deny from 103.84.152.0/22
+deny from 103.84.212.0/22
 deny from 103.85.42.0/23
 deny from 103.85.232.0/22
 deny from 103.87.108.0/22
@@ -7312,7 +7323,7 @@ deny from 122.223.144.0/20
 deny from 122.252.32.0/19
 deny from 122.252.128.0/20
 deny from 123.100.232.0/24
-deny from 123.100.247.0/24
+deny from 123.100.246.0/23
 deny from 123.253.88.0/22
 deny from 123.253.152.0/22
 deny from 124.110.112.0/20
@@ -12838,6 +12849,7 @@ deny from 176.115.176.0/21
 deny from 176.116.124.0/23
 deny from 176.117.88.0/21
 deny from 176.118.188.0/22
+deny from 176.118.195.0/24
 deny from 176.119.8.0/21
 deny from 176.125.236.0/22
 deny from 176.126.104.0/24
@@ -13119,7 +13131,7 @@ deny from 185.126.72.0/21
 deny from 185.127.92.0/22
 deny from 185.128.226.0/23
 deny from 185.130.236.0/22
-deny from 185.131.220.0/24
+deny from 185.131.220.0/23
 deny from 185.132.4.0/22
 deny from 185.132.48.0/22
 deny from 185.132.76.0/22
@@ -13403,7 +13415,7 @@ deny from 185.238.176.0/22
 deny from 185.240.32.0/22
 deny from 185.240.84.0/22
 deny from 185.240.252.0/24
-deny from 185.240.255.0/24
+deny from 185.240.254.0/23
 deny from 185.241.70.0/23
 deny from 185.241.116.0/22
 deny from 185.242.92.0/22
@@ -17658,7 +17670,6 @@ deny from 193.111.184.0/22
 deny from 193.118.32.0/19
 deny from 193.118.96.0/19
 deny from 193.122.0.0/15
-deny from 193.124.20.0/23
 deny from 193.134.208.0/22
 deny from 193.135.116.0/22
 deny from 193.135.220.0/22
@@ -17749,6 +17760,8 @@ deny from 193.202.106.0/24
 deny from 193.202.113.0/24
 deny from 193.202.192.0/19
 deny from 193.203.28.0/22
+deny from 193.203.36.0/24
+deny from 193.203.39.0/24
 deny from 193.218.122.0/24
 deny from 193.221.192.0/22
 deny from 193.227.103.0/24
@@ -17922,6 +17935,7 @@ deny from 194.134.0.0/16
 deny from 194.135.26.0/23
 deny from 194.135.132.0/23
 deny from 194.145.0.0/19
+deny from 194.145.118.0/24
 deny from 194.145.147.0/24
 deny from 194.146.95.0/24
 deny from 194.147.64.0/23
