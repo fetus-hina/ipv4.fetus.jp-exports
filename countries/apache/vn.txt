@@ -960,7 +960,6 @@ deny from 160.30.172.0/23
 deny from 160.30.190.0/23
 deny from 160.30.192.0/23
 deny from 160.30.200.0/23
-deny from 160.30.202.0/24
 deny from 160.30.204.0/23
 deny from 160.30.252.0/22
 deny from 160.187.0.0/22
@@ -1002,6 +1001,11 @@ deny from 160.191.176.0/23
 deny from 160.191.214.0/23
 deny from 160.191.216.0/21
 deny from 160.191.230.0/23
+deny from 160.191.236.0/23
+deny from 160.191.240.0/22
+deny from 160.191.244.0/23
+deny from 160.191.248.0/21
+deny from 160.250.0.0/22
 deny from 163.44.192.0/22
 deny from 163.44.200.0/24
 deny from 163.44.204.0/22
