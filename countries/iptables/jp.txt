@@ -2994,7 +2994,11 @@
 -A RULE1 -s 219.160.0.0/11     -j RULE2
 -A RULE1 -s 219.192.0.0/12     -j RULE2
 -A RULE1 -s 219.208.0.0/13     -j RULE2
--A RULE1 -s 220.0.0.0/10       -j RULE2
+-A RULE1 -s 220.0.0.0/11       -j RULE2
+-A RULE1 -s 220.32.0.0/14      -j RULE2
+-A RULE1 -s 220.38.0.0/15      -j RULE2
+-A RULE1 -s 220.40.0.0/13      -j RULE2
+-A RULE1 -s 220.48.0.0/12      -j RULE2
 -A RULE1 -s 220.96.0.0/14      -j RULE2
 -A RULE1 -s 220.100.0.0/16     -j RULE2
 -A RULE1 -s 220.102.0.0/16     -j RULE2
