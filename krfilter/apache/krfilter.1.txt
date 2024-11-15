@@ -4405,6 +4405,8 @@ deny from 160.202.176.0/22
 deny from 160.202.212.0/22
 deny from 160.202.216.0/21
 deny from 160.202.224.0/19
+deny from 160.250.14.0/23
+deny from 160.250.16.0/22
 deny from 161.120.0.0/16
 deny from 161.122.0.0/16
 deny from 161.189.0.0/16
@@ -4519,7 +4521,6 @@ deny from 175.185.0.0/16
 deny from 175.186.0.0/15
 deny from 175.188.0.0/14
 deny from 175.192.0.0/10
-deny from 176.116.4.0/24
 deny from 178.236.224.0/20
 deny from 180.64.0.0/13
 deny from 180.76.0.0/14
@@ -6231,7 +6232,6 @@ deny from 211.160.0.0/11
 deny from 211.192.0.0/10
 deny from 212.64.0.0/17
 deny from 212.129.128.0/17
-deny from 217.114.35.0/24
 deny from 218.0.0.0/11
 deny from 218.36.0.0/14
 deny from 218.48.0.0/12
