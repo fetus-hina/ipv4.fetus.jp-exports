@@ -2165,7 +2165,7 @@ deny from 45.87.148.0/22
 deny from 45.87.156.0/22
 deny from 45.87.160.0/21
 deny from 45.87.172.0/22
-deny from 45.87.176.0/21
+deny from 45.87.176.0/22
 deny from 45.87.188.0/22
 deny from 45.87.192.0/20
 deny from 45.87.208.0/21
@@ -2389,7 +2389,9 @@ deny from 45.120.220.0/22
 deny from 45.123.40.0/22
 deny from 45.128.0.0/20
 deny from 45.128.28.0/22
-deny from 45.128.32.0/19
+deny from 45.128.32.0/21
+deny from 45.128.44.0/22
+deny from 45.128.48.0/20
 deny from 45.128.64.0/21
 deny from 45.128.72.0/22
 deny from 45.128.80.0/20
@@ -2788,7 +2790,6 @@ deny from 45.143.240.0/22
 deny from 45.143.248.0/22
 deny from 45.144.4.0/22
 deny from 45.144.8.0/21
-deny from 45.144.20.0/22
 deny from 45.144.28.0/22
 deny from 45.144.52.0/22
 deny from 45.144.56.0/21
@@ -11999,7 +12000,8 @@ deny from 94.103.8.0/21
 deny from 94.103.16.0/20
 deny from 94.103.48.0/20
 deny from 94.103.64.0/20
-deny from 94.103.112.0/20
+deny from 94.103.112.0/21
+deny from 94.103.124.0/22
 deny from 94.103.128.0/19
 deny from 94.103.160.0/20
 deny from 94.103.176.0/23
@@ -18459,6 +18461,7 @@ deny from 185.75.144.0/21
 deny from 185.75.156.0/22
 deny from 185.75.160.0/21
 deny from 185.75.172.0/22
+deny from 185.75.178.0/24
 deny from 185.75.184.0/22
 deny from 185.75.192.0/22
 deny from 185.75.200.0/22
@@ -19984,7 +19987,7 @@ deny from 185.134.64.0/21
 deny from 185.134.76.0/22
 deny from 185.134.80.0/20
 deny from 185.134.100.0/22
-deny from 185.134.104.0/21
+deny from 185.134.108.0/22
 deny from 185.134.112.0/21
 deny from 185.134.124.0/22
 deny from 185.134.128.0/22
@@ -22152,7 +22155,7 @@ deny from 185.212.176.0/21
 deny from 185.212.184.0/23
 deny from 185.212.196.0/22
 deny from 185.212.204.0/22
-deny from 185.212.208.0/21
+deny from 185.212.208.0/22
 deny from 185.212.224.0/20
 deny from 185.212.240.0/22
 deny from 185.212.248.0/22
@@ -30124,7 +30127,6 @@ deny from 194.110.84.0/22
 deny from 194.110.92.0/22
 deny from 194.110.96.0/20
 deny from 194.110.112.0/21
-deny from 194.110.120.0/22
 deny from 194.110.124.0/23
 deny from 194.110.127.0/24
 deny from 194.110.130.0/23
