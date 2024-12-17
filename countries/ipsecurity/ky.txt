@@ -3,6 +3,8 @@
 <ipSecurity allowUnlisted="true">
   <add allowed="false" ipAddress="23.188.0.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="63.136.112.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="64.239.32.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="64.239.116.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="74.117.216.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="74.222.64.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="76.76.15.0" subnetMask="255.255.255.0" />
@@ -23,5 +25,7 @@
   <add allowed="false" ipAddress="208.168.224.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="209.27.52.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="209.27.60.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="216.25.44.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="216.25.64.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="216.144.80.0" subnetMask="255.255.240.0" />
 </ipSecurity>
