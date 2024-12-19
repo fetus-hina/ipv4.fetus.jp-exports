@@ -1800,6 +1800,7 @@
 -A RULE1 -s 142.72.0.0/14      -j RULE2
 -A RULE1 -s 142.76.0.0/16      -j RULE2
 -A RULE1 -s 142.78.0.0/16      -j RULE2
+-A RULE1 -s 142.79.48.0/21     -j RULE2
 -A RULE1 -s 142.80.0.0/14      -j RULE2
 -A RULE1 -s 142.84.0.0/15      -j RULE2
 -A RULE1 -s 142.87.0.0/16      -j RULE2
