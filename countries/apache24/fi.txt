@@ -388,7 +388,10 @@ Require not ip 159.152.0.0/16
 Require not ip 159.255.224.0/19
 Require not ip 160.71.0.0/16
 Require not ip 161.41.0.0/16
-Require not ip 164.5.0.0/16
+Require not ip 164.5.0.0/17
+Require not ip 164.5.128.0/18
+Require not ip 164.5.192.0/19
+Require not ip 164.5.224.0/20
 Require not ip 164.13.0.0/16
 Require not ip 164.138.0.0/20
 Require not ip 164.141.0.0/16
