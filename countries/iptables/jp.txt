@@ -1837,6 +1837,7 @@
 -A RULE1 -s 161.94.0.0/15      -j RULE2
 -A RULE1 -s 161.96.0.0/16      -j RULE2
 -A RULE1 -s 161.248.2.0/23     -j RULE2
+-A RULE1 -s 161.248.40.0/23    -j RULE2
 -A RULE1 -s 162.43.0.0/17      -j RULE2
 -A RULE1 -s 163.42.0.0/15      -j RULE2
 -A RULE1 -s 163.44.0.0/17      -j RULE2
