@@ -1,4 +1,6 @@
 Require not ip 23.188.0.0/24
+Require not ip 45.144.204.0/22
+Require not ip 45.152.156.0/22
 Require not ip 63.136.112.0/21
 Require not ip 64.239.32.0/22
 Require not ip 64.239.116.0/22
@@ -14,6 +16,7 @@ Require not ip 162.211.136.0/22
 Require not ip 162.247.220.0/22
 Require not ip 162.249.128.0/21
 Require not ip 173.225.208.0/20
+Require not ip 185.158.252.0/22
 Require not ip 192.0.4.0/22
 Require not ip 192.160.250.0/24
 Require not ip 199.201.84.0/22
