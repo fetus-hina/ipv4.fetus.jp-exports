@@ -410,7 +410,9 @@
 -A RULE1 -s 200.2.0.0/21       -j RULE2
 -A RULE1 -s 200.2.16.0/20      -j RULE2
 -A RULE1 -s 200.2.72.0/21      -j RULE2
--A RULE1 -s 200.2.80.0/20      -j RULE2
+-A RULE1 -s 200.2.80.0/21      -j RULE2
+-A RULE1 -s 200.2.90.0/23      -j RULE2
+-A RULE1 -s 200.2.92.0/22      -j RULE2
 -A RULE1 -s 200.2.96.0/22      -j RULE2
 -A RULE1 -s 200.2.104.0/21     -j RULE2
 -A RULE1 -s 200.2.112.0/21     -j RULE2

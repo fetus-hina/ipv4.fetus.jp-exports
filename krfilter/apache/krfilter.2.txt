@@ -12955,10 +12955,11 @@ deny from 161.248.74.0/23
 deny from 161.248.84.0/23
 deny from 161.248.92.0/23
 deny from 161.248.105.0/24
-deny from 161.248.106.0/24
+deny from 161.248.106.0/23
 deny from 161.248.108.0/22
 deny from 161.248.112.0/22
 deny from 161.248.116.0/23
+deny from 161.248.124.0/23
 deny from 162.12.244.0/22
 deny from 162.14.0.0/16
 deny from 162.56.0.0/16
@@ -16541,7 +16542,8 @@ deny from 218.232.0.0/13
 deny from 218.240.0.0/13
 deny from 218.248.0.0/15
 deny from 218.250.0.0/16
-deny from 218.252.0.0/14
+deny from 218.252.0.0/15
+deny from 218.255.0.0/16
 deny from 219.64.0.0/15
 deny from 219.68.0.0/14
 deny from 219.72.0.0/16
