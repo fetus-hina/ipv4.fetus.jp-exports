@@ -1061,6 +1061,7 @@ deny from 94.231.176.0/20
 deny from 94.232.72.0/21
 deny from 94.232.176.0/21
 deny from 94.232.208.0/21
+deny from 94.232.254.0/24
 deny from 94.240.128.0/18
 deny from 94.244.0.0/18
 deny from 94.247.224.0/21
@@ -1327,6 +1328,7 @@ deny from 185.15.4.0/22
 deny from 185.16.124.0/22
 deny from 185.17.124.0/22
 deny from 185.19.4.0/22
+deny from 185.19.34.0/24
 deny from 185.19.244.0/22
 deny from 185.20.184.0/22
 deny from 185.20.216.0/22
