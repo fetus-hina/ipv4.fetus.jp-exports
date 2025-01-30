@@ -6022,7 +6022,6 @@ Require not ip 82.117.244.0/23
 Require not ip 82.118.24.0/21
 Require not ip 82.118.32.0/19
 Require not ip 82.118.64.0/18
-Require not ip 82.118.128.0/19
 Require not ip 82.118.192.0/18
 Require not ip 82.119.0.0/17
 Require not ip 82.119.160.0/19
@@ -12663,7 +12662,8 @@ Require not ip 95.170.64.0/19
 Require not ip 95.170.224.0/19
 Require not ip 95.171.32.0/19
 Require not ip 95.171.64.0/18
-Require not ip 95.171.128.0/17
+Require not ip 95.171.128.0/18
+Require not ip 95.171.192.0/19
 Require not ip 95.172.0.0/19
 Require not ip 95.172.64.0/19
 Require not ip 95.172.160.0/19
@@ -12846,6 +12846,7 @@ Require not ip 103.107.17.0/24
 Require not ip 103.108.88.0/23
 Require not ip 103.108.188.0/23
 Require not ip 103.110.64.0/22
+Require not ip 103.110.124.0/23
 Require not ip 103.110.160.0/22
 Require not ip 103.110.208.0/22
 Require not ip 103.111.112.0/22
@@ -15602,6 +15603,7 @@ Require not ip 170.81.52.0/22
 Require not ip 170.84.228.0/22
 Require not ip 170.102.112.0/20
 Require not ip 170.102.128.0/17
+Require not ip 170.117.202.0/23
 Require not ip 170.133.0.0/18
 Require not ip 170.205.192.0/18
 Require not ip 170.233.72.0/22
@@ -15700,6 +15702,7 @@ Require not ip 176.10.48.0/20
 Require not ip 176.10.64.0/20
 Require not ip 176.10.80.0/21
 Require not ip 176.10.92.0/24
+Require not ip 176.10.94.0/24
 Require not ip 176.10.128.0/17
 Require not ip 176.11.0.0/16
 Require not ip 176.12.0.0/18
@@ -28461,6 +28464,7 @@ Require not ip 193.201.154.0/24
 Require not ip 193.201.155.0/26
 Require not ip 193.201.156.128/25
 Require not ip 193.201.157.0/25
+Require not ip 193.201.157.128/26
 Require not ip 193.201.158.0/24
 Require not ip 193.201.160.0/21
 Require not ip 193.201.168.0/22
@@ -33678,7 +33682,8 @@ Require not ip 212.35.192.0/18
 Require not ip 212.36.0.0/17
 Require not ip 212.36.128.0/18
 Require not ip 212.37.0.0/16
-Require not ip 212.38.0.0/17
+Require not ip 212.38.0.0/18
+Require not ip 212.38.64.0/19
 Require not ip 212.38.160.0/19
 Require not ip 212.38.192.0/18
 Require not ip 212.39.0.0/18
