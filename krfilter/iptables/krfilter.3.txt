@@ -362,7 +362,6 @@
 -A RULE1 -s 23.111.32.0/19     -j RULE2
 -A RULE1 -s 23.111.96.0/19     -j RULE2
 -A RULE1 -s 23.111.192.0/19    -j RULE2
--A RULE1 -s 23.161.8.0/24      -j RULE2
 -A RULE1 -s 23.226.0.0/20      -j RULE2
 -A RULE1 -s 27.0.48.0/20       -j RULE2
 -A RULE1 -s 27.0.128.0/19      -j RULE2
