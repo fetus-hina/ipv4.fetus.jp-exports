@@ -990,7 +990,8 @@
 -A RULE1 -s 77.87.56.0/21      -j RULE2
 -A RULE1 -s 77.87.126.0/24     -j RULE2
 -A RULE1 -s 77.87.160.0/21     -j RULE2
--A RULE1 -s 77.93.64.0/19      -j RULE2
+-A RULE1 -s 77.93.64.0/20      -j RULE2
+-A RULE1 -s 77.93.88.0/21      -j RULE2
 -A RULE1 -s 77.94.240.0/20     -j RULE2
 -A RULE1 -s 77.95.96.0/21      -j RULE2
 -A RULE1 -s 77.95.224.0/21     -j RULE2
