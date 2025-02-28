@@ -15027,6 +15027,8 @@ Require not ip 153.110.0.0/16
 Require not ip 153.112.0.0/16
 Require not ip 154.67.0.0/16
 Require not ip 155.2.128.0/19
+Require not ip 155.2.176.0/20
+Require not ip 155.2.192.0/19
 Require not ip 155.4.0.0/16
 Require not ip 155.45.0.0/16
 Require not ip 155.54.0.0/15
@@ -23405,9 +23407,7 @@ Require not ip 185.248.152.0/21
 Require not ip 185.248.168.0/22
 Require not ip 185.248.176.0/21
 Require not ip 185.248.188.0/22
-Require not ip 185.248.192.0/20
-Require not ip 185.248.208.0/22
-Require not ip 185.248.216.0/21
+Require not ip 185.248.192.0/19
 Require not ip 185.248.227.0/24
 Require not ip 185.248.228.0/22
 Require not ip 185.248.232.0/21
