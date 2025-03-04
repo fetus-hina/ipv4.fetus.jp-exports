@@ -6005,6 +6005,7 @@ deny from 163.61.228.0/22
 deny from 163.61.232.0/22
 deny from 163.61.238.0/23
 deny from 163.61.252.0/23
+deny from 163.223.0.0/23
 deny from 164.52.192.0/19
 deny from 164.100.0.0/16
 deny from 164.164.0.0/16
@@ -6448,7 +6449,6 @@ deny from 202.142.64.0/18
 deny from 202.143.96.0/22
 deny from 202.144.0.0/17
 deny from 202.146.192.0/22
-deny from 202.148.52.0/22
 deny from 202.148.56.0/21
 deny from 202.148.192.0/20
 deny from 202.149.192.0/19
