@@ -17305,6 +17305,7 @@ deny from 161.81.0.0/16
 deny from 161.118.0.0/16
 deny from 161.120.0.0/16
 deny from 161.122.0.0/16
+deny from 161.145.96.0/21
 deny from 161.189.0.0/16
 deny from 161.207.0.0/16
 deny from 161.248.0.0/23
@@ -17477,6 +17478,8 @@ deny from 163.223.77.0/24
 deny from 163.223.78.0/23
 deny from 163.223.82.0/23
 deny from 163.223.84.0/22
+deny from 163.223.88.0/23
+deny from 163.223.94.0/23
 deny from 163.228.0.0/15
 deny from 163.239.0.0/16
 deny from 163.255.0.0/16
