@@ -273,7 +273,7 @@ deny from 59.153.8.0/22
 deny from 59.154.0.0/16
 deny from 59.167.0.0/16
 deny from 59.191.192.0/19
-deny from 59.191.224.0/20
+deny from 59.191.224.0/21
 deny from 60.224.0.0/13
 deny from 60.240.0.0/15
 deny from 60.242.0.0/16
@@ -2844,6 +2844,7 @@ deny from 163.127.0.0/16
 deny from 163.189.0.0/16
 deny from 163.223.22.0/23
 deny from 163.223.109.0/24
+deny from 163.223.176.0/23
 deny from 163.232.0.0/15
 deny from 164.53.0.0/16
 deny from 164.75.0.0/16

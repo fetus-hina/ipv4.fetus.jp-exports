@@ -1909,7 +1909,7 @@
   <add allowed="false" ipAddress="45.120.232.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="45.120.240.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="45.121.0.0" subnetMask="255.255.240.0" />
-  <add allowed="false" ipAddress="45.121.16.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="45.121.16.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="45.121.28.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="45.121.40.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="45.121.48.0" subnetMask="255.255.248.0" />
@@ -16869,7 +16869,9 @@
   <add allowed="false" ipAddress="157.20.18.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="157.20.20.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="157.20.24.0" subnetMask="255.255.248.0" />
-  <add allowed="false" ipAddress="157.20.32.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="157.20.32.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="157.20.34.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="157.20.36.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="157.20.44.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="157.20.48.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="157.20.66.0" subnetMask="255.255.254.0" />
@@ -17498,6 +17500,8 @@
   <add allowed="false" ipAddress="163.223.156.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="163.223.160.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="163.223.168.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="163.223.172.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="163.223.178.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="163.228.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="163.239.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="163.255.0.0" subnetMask="255.255.0.0" />

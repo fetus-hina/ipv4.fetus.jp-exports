@@ -3222,7 +3222,7 @@ deny from 179.43.32.0/19
 deny from 179.48.0.0/19
 deny from 179.48.32.0/20
 deny from 179.48.48.0/22
-deny from 179.48.60.0/22
+deny from 179.48.56.0/21
 deny from 179.48.64.0/18
 deny from 179.48.128.0/21
 deny from 179.48.136.0/22
@@ -4152,6 +4152,7 @@ deny from 192.141.112.0/21
 deny from 192.141.120.0/22
 deny from 192.141.132.0/22
 deny from 192.141.136.0/21
+deny from 192.141.144.0/22
 deny from 192.141.152.0/21
 deny from 192.141.160.0/22
 deny from 192.141.172.0/22
