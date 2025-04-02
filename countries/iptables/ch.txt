@@ -807,6 +807,7 @@
 -A RULE1 -s 153.92.47.0/24     -j RULE2
 -A RULE1 -s 153.108.0.0/15     -j RULE2
 -A RULE1 -s 154.14.0.0/15      -j RULE2
+-A RULE1 -s 155.2.224.0/19     -j RULE2
 -A RULE1 -s 155.66.0.0/16      -j RULE2
 -A RULE1 -s 155.105.0.0/16     -j RULE2
 -A RULE1 -s 155.145.0.0/16     -j RULE2
