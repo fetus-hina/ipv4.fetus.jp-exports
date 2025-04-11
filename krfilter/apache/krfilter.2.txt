@@ -5632,7 +5632,7 @@ deny from 103.117.60.0/23
 deny from 103.117.62.0/24
 deny from 103.117.64.0/20
 deny from 103.117.82.0/23
-deny from 103.117.88.0/22
+deny from 103.117.88.0/21
 deny from 103.117.98.0/24
 deny from 103.117.106.0/24
 deny from 103.117.112.0/22
@@ -13164,6 +13164,9 @@ deny from 163.227.32.0/21
 deny from 163.227.40.0/23
 deny from 163.227.42.0/24
 deny from 163.227.44.0/23
+deny from 163.227.49.0/24
+deny from 163.227.52.0/22
+deny from 163.227.56.0/23
 deny from 163.228.0.0/15
 deny from 163.239.0.0/16
 deny from 163.255.0.0/16
