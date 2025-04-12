@@ -13061,6 +13061,8 @@ Require not ip 104.153.164.0/23
 Require not ip 104.167.0.0/20
 Require not ip 104.167.18.0/23
 Require not ip 104.167.20.0/23
+Require not ip 104.167.24.0/24
+Require not ip 104.167.28.0/22
 Require not ip 104.192.42.0/24
 Require not ip 104.219.72.0/22
 Require not ip 104.222.160.0/19
@@ -13295,7 +13297,12 @@ Require not ip 109.172.8.0/23
 Require not ip 109.172.92.0/23
 Require not ip 109.173.128.0/17
 Require not ip 109.174.128.0/17
-Require not ip 109.175.128.0/17
+Require not ip 109.175.128.0/19
+Require not ip 109.175.160.0/21
+Require not ip 109.175.168.0/22
+Require not ip 109.175.172.0/23
+Require not ip 109.175.176.0/20
+Require not ip 109.175.192.0/18
 Require not ip 109.176.0.0/16
 Require not ip 109.178.0.0/15
 Require not ip 109.180.0.0/14
