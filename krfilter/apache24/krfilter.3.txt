@@ -16270,6 +16270,7 @@ Require not ip 124.195.0.0/17
 Require not ip 124.195.160.0/19
 Require not ip 124.195.224.0/19
 Require not ip 124.196.0.0/16
+Require not ip 124.197.56.0/21
 Require not ip 124.197.128.0/18
 Require not ip 124.197.192.0/19
 Require not ip 124.198.0.0/17
@@ -17599,7 +17600,9 @@ Require not ip 163.227.186.0/23
 Require not ip 163.227.188.0/22
 Require not ip 163.227.192.0/23
 Require not ip 163.227.196.0/22
-Require not ip 163.227.200.0/24
+Require not ip 163.227.200.0/23
+Require not ip 163.227.204.0/22
+Require not ip 163.227.210.0/23
 Require not ip 163.228.0.0/15
 Require not ip 163.239.0.0/16
 Require not ip 163.255.0.0/16

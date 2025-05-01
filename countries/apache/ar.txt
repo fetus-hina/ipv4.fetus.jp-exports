@@ -979,7 +979,11 @@ deny from 186.65.108.0/22
 deny from 186.96.192.0/21
 deny from 186.100.0.0/16
 deny from 186.108.0.0/14
-deny from 186.121.128.0/18
+deny from 186.121.128.0/19
+deny from 186.121.160.0/23
+deny from 186.121.164.0/22
+deny from 186.121.168.0/21
+deny from 186.121.176.0/20
 deny from 186.122.0.0/15
 deny from 186.124.0.0/14
 deny from 186.128.0.0/12
