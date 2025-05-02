@@ -173,7 +173,11 @@ deny from 87.120.248.0/22
 deny from 87.121.252.0/22
 deny from 87.192.0.0/16
 deny from 87.198.0.0/16
-deny from 87.232.0.0/16
+deny from 87.232.0.0/17
+deny from 87.232.128.0/21
+deny from 87.232.144.0/20
+deny from 87.232.160.0/19
+deny from 87.232.192.0/18
 deny from 87.238.80.0/21
 deny from 88.81.96.0/19
 deny from 88.87.160.0/19
