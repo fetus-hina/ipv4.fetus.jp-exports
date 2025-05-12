@@ -17644,7 +17644,7 @@ Require not ip 165.99.19.0/24
 Require not ip 165.99.20.0/22
 Require not ip 165.99.25.0/24
 Require not ip 165.99.28.0/22
-Require not ip 165.99.32.0/24
+Require not ip 165.99.32.0/23
 Require not ip 165.132.0.0/15
 Require not ip 165.141.0.0/16
 Require not ip 165.154.0.0/17
@@ -24225,7 +24225,10 @@ Require not ip 203.166.220.0/22
 Require not ip 203.167.28.0/22
 Require not ip 203.168.0.0/19
 Require not ip 203.168.128.0/21
-Require not ip 203.168.192.0/18
+Require not ip 203.168.192.0/20
+Require not ip 203.168.208.0/21
+Require not ip 203.168.220.0/22
+Require not ip 203.168.224.0/19
 Require not ip 203.169.4.0/23
 Require not ip 203.169.32.0/20
 Require not ip 203.169.52.0/22
