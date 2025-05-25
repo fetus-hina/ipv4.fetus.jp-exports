@@ -5353,7 +5353,10 @@
 -A RULE1 -s 69.88.32.0/20      -j RULE2
 -A RULE1 -s 69.88.64.0/18      -j RULE2
 -A RULE1 -s 69.88.128.0/17     -j RULE2
--A RULE1 -s 69.89.0.0/16       -j RULE2
+-A RULE1 -s 69.89.0.0/19       -j RULE2
+-A RULE1 -s 69.89.48.0/20      -j RULE2
+-A RULE1 -s 69.89.64.0/18      -j RULE2
+-A RULE1 -s 69.89.128.0/17     -j RULE2
 -A RULE1 -s 69.91.0.0/16       -j RULE2
 -A RULE1 -s 69.92.0.0/16       -j RULE2
 -A RULE1 -s 69.94.0.0/21       -j RULE2
