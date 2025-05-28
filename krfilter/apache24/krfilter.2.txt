@@ -6352,6 +6352,7 @@ Require not ip 103.138.92.0/23
 Require not ip 103.138.96.0/22
 Require not ip 103.138.104.0/22
 Require not ip 103.138.116.0/23
+Require not ip 103.138.124.0/24
 Require not ip 103.138.126.0/23
 Require not ip 103.138.132.0/22
 Require not ip 103.138.136.0/22
@@ -13277,8 +13278,11 @@ Require not ip 165.99.126.0/23
 Require not ip 165.99.128.0/23
 Require not ip 165.99.132.0/22
 Require not ip 165.99.136.0/23
-Require not ip 165.99.140.0/24
-Require not ip 165.99.142.0/23
+Require not ip 165.99.140.0/22
+Require not ip 165.99.148.0/22
+Require not ip 165.99.152.0/23
+Require not ip 165.99.154.0/24
+Require not ip 165.99.156.0/22
 Require not ip 165.132.0.0/15
 Require not ip 165.141.0.0/16
 Require not ip 165.154.0.0/17
