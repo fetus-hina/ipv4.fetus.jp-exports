@@ -877,7 +877,6 @@
 -A RULE1 -s 74.122.24.0/22     -j RULE2
 -A RULE1 -s 81.68.0.0/14       -j RULE2
 -A RULE1 -s 82.156.0.0/15      -j RULE2
--A RULE1 -s 85.209.40.0/22     -j RULE2
 -A RULE1 -s 91.233.17.0/24     -j RULE2
 -A RULE1 -s 91.234.36.0/24     -j RULE2
 -A RULE1 -s 94.191.0.0/17      -j RULE2
