@@ -173,7 +173,8 @@ deny from 45.145.52.0/22
 deny from 45.145.88.0/22
 deny from 45.145.160.0/23
 deny from 45.145.162.0/24
-deny from 45.145.168.0/22
+deny from 45.145.168.0/23
+deny from 45.145.170.0/24
 deny from 45.146.36.0/22
 deny from 45.146.40.0/22
 deny from 45.146.168.0/22
@@ -951,6 +952,7 @@ deny from 195.246.110.0/23
 deny from 196.3.67.0/24
 deny from 196.3.68.0/22
 deny from 202.71.12.0/22
+deny from 206.245.128.0/19
 deny from 208.123.184.0/21
 deny from 212.8.251.0/24
 deny from 212.34.128.0/20
