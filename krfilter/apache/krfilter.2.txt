@@ -13334,7 +13334,9 @@ deny from 165.101.134.0/23
 deny from 165.101.136.0/22
 deny from 165.101.140.0/24
 deny from 165.101.143.0/24
-deny from 165.101.144.0/23
+deny from 165.101.144.0/22
+deny from 165.101.150.0/24
+deny from 165.101.152.0/23
 deny from 165.132.0.0/15
 deny from 165.141.0.0/16
 deny from 165.154.0.0/17
@@ -14134,6 +14136,7 @@ deny from 195.211.164.0/24
 deny from 195.211.166.0/24
 deny from 195.216.152.0/22
 deny from 195.225.81.0/24
+deny from 195.248.90.0/24
 deny from 196.1.1.0/24
 deny from 196.1.105.0/24
 deny from 196.1.106.0/24
