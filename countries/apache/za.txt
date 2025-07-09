@@ -81,6 +81,7 @@ deny from 41.191.88.0/22
 deny from 41.191.124.0/22
 deny from 41.191.128.0/19
 deny from 41.192.0.0/14
+deny from 41.198.128.0/18
 deny from 41.202.32.0/19
 deny from 41.203.0.0/18
 deny from 41.203.160.0/20
@@ -314,6 +315,8 @@ deny from 102.177.64.0/21
 deny from 102.177.112.0/20
 deny from 102.177.128.0/18
 deny from 102.182.0.0/16
+deny from 102.205.124.0/22
+deny from 102.205.130.0/23
 deny from 102.205.140.0/22
 deny from 102.205.160.0/21
 deny from 102.205.172.0/22

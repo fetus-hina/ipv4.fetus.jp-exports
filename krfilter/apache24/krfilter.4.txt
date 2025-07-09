@@ -4596,6 +4596,7 @@ Require not ip 66.33.92.0/23
 Require not ip 66.45.120.0/21
 Require not ip 66.56.80.0/20
 Require not ip 66.71.128.0/18
+Require not ip 66.81.144.0/21
 Require not ip 66.81.160.0/19
 Require not ip 66.97.192.0/19
 Require not ip 66.151.32.0/22
@@ -4622,6 +4623,7 @@ Require not ip 68.240.0.0/13
 Require not ip 69.5.184.0/24
 Require not ip 69.6.0.0/18
 Require not ip 69.15.0.0/16
+Require not ip 69.19.136.0/21
 Require not ip 69.48.145.0/24
 Require not ip 69.48.159.0/24
 Require not ip 69.57.172.0/24
@@ -27768,6 +27770,7 @@ Require not ip 193.111.237.0/24
 Require not ip 193.111.238.0/24
 Require not ip 193.111.244.0/22
 Require not ip 193.111.248.0/23
+Require not ip 193.111.250.0/24
 Require not ip 193.113.0.0/16
 Require not ip 193.114.160.0/19
 Require not ip 193.115.192.0/18
@@ -33463,6 +33466,7 @@ Require not ip 195.254.192.0/18
 Require not ip 195.255.0.0/16
 Require not ip 196.1.104.0/24
 Require not ip 198.7.96.0/19
+Require not ip 198.13.232.0/22
 Require not ip 198.17.77.0/24
 Require not ip 198.17.117.0/24
 Require not ip 198.17.180.0/23
@@ -33924,7 +33928,12 @@ Require not ip 212.19.192.0/18
 Require not ip 212.20.64.0/18
 Require not ip 212.20.160.0/19
 Require not ip 212.20.192.0/18
-Require not ip 212.21.64.0/18
+Require not ip 212.21.64.0/19
+Require not ip 212.21.96.0/22
+Require not ip 212.21.100.0/23
+Require not ip 212.21.103.0/24
+Require not ip 212.21.104.0/21
+Require not ip 212.21.112.0/20
 Require not ip 212.21.128.0/17
 Require not ip 212.22.0.0/18
 Require not ip 212.22.96.0/19
@@ -34045,7 +34054,21 @@ Require not ip 212.46.58.0/23
 Require not ip 212.46.61.0/24
 Require not ip 212.46.62.0/24
 Require not ip 212.46.64.0/18
-Require not ip 212.46.128.0/18
+Require not ip 212.46.129.0/24
+Require not ip 212.46.130.0/23
+Require not ip 212.46.132.0/24
+Require not ip 212.46.134.0/23
+Require not ip 212.46.136.0/23
+Require not ip 212.46.139.0/24
+Require not ip 212.46.140.0/23
+Require not ip 212.46.144.0/24
+Require not ip 212.46.146.0/23
+Require not ip 212.46.148.0/24
+Require not ip 212.46.150.0/23
+Require not ip 212.46.152.0/22
+Require not ip 212.46.156.0/23
+Require not ip 212.46.158.0/24
+Require not ip 212.46.160.0/19
 Require not ip 212.47.0.0/19
 Require not ip 212.47.64.0/20
 Require not ip 212.47.80.0/23
@@ -35075,6 +35098,7 @@ Require not ip 216.147.96.0/20
 Require not ip 216.155.224.0/20
 Require not ip 216.158.96.0/20
 Require not ip 216.162.200.0/24
+Require not ip 216.163.180.0/24
 Require not ip 216.170.113.0/24
 Require not ip 216.170.115.0/24
 Require not ip 216.172.64.0/20
