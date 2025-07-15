@@ -71,6 +71,7 @@
 -A RULE1 -s 37.203.248.0/21    -j RULE2
 -A RULE1 -s 37.209.176.0/20    -j RULE2
 -A RULE1 -s 37.252.128.0/19    -j RULE2
+-A RULE1 -s 45.3.60.0/23       -j RULE2
 -A RULE1 -s 45.8.240.0/22      -j RULE2
 -A RULE1 -s 45.9.76.0/22       -j RULE2
 -A RULE1 -s 45.9.160.0/22      -j RULE2
