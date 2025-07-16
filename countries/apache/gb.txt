@@ -1072,7 +1072,11 @@ deny from 77.44.0.0/17
 deny from 77.68.0.0/17
 deny from 77.72.0.0/21
 deny from 77.72.200.0/21
-deny from 77.73.0.0/20
+deny from 77.73.0.0/21
+deny from 77.73.9.0/24
+deny from 77.73.10.0/23
+deny from 77.73.12.0/24
+deny from 77.73.15.0/24
 deny from 77.73.72.0/21
 deny from 77.73.120.0/21
 deny from 77.73.144.0/20
@@ -5399,6 +5403,7 @@ deny from 188.241.14.0/24
 deny from 188.241.17.0/24
 deny from 188.241.20.0/22
 deny from 188.241.40.0/21
+deny from 188.241.53.0/24
 deny from 188.241.106.0/23
 deny from 188.241.120.0/24
 deny from 188.241.144.0/23

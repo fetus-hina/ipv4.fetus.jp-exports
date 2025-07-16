@@ -660,7 +660,9 @@ deny from 94.232.168.0/21
 deny from 95.38.0.0/16
 deny from 95.64.0.0/17
 deny from 95.80.128.0/18
-deny from 95.81.64.0/19
+deny from 95.81.64.0/21
+deny from 95.81.76.0/22
+deny from 95.81.80.0/20
 deny from 95.128.155.0/24
 deny from 95.128.159.0/24
 deny from 95.128.194.0/24
@@ -770,6 +772,7 @@ deny from 176.101.48.0/21
 deny from 176.102.224.0/19
 deny from 176.105.245.0/24
 deny from 176.116.7.0/24
+deny from 176.117.107.0/24
 deny from 176.120.16.0/22
 deny from 176.122.210.0/23
 deny from 176.123.64.0/18
