@@ -772,7 +772,6 @@ Require not ip 46.237.128.0/18
 Require not ip 46.245.248.0/21
 Require not ip 46.247.0.0/19
 Require not ip 46.247.32.0/22
-Require not ip 46.247.36.0/23
 Require not ip 46.247.40.0/21
 Require not ip 46.247.48.0/20
 Require not ip 46.247.88.0/21
@@ -998,6 +997,7 @@ Require not ip 62.197.132.0/22
 Require not ip 62.204.54.0/24
 Require not ip 62.204.56.0/24
 Require not ip 62.204.63.0/24
+Require not ip 62.205.128.0/19
 Require not ip 62.208.0.0/16
 Require not ip 62.216.128.0/19
 Require not ip 62.221.0.0/19
@@ -1341,7 +1341,7 @@ Require not ip 81.27.75.0/24
 Require not ip 81.27.76.0/24
 Require not ip 81.27.80.0/22
 Require not ip 81.27.85.0/24
-Require not ip 81.27.86.0/23
+Require not ip 81.27.87.0/24
 Require not ip 81.27.88.0/21
 Require not ip 81.29.48.0/20
 Require not ip 81.29.64.0/19
@@ -2862,7 +2862,10 @@ Require not ip 109.104.98.0/24
 Require not ip 109.104.100.0/23
 Require not ip 109.104.104.0/23
 Require not ip 109.104.108.0/22
-Require not ip 109.104.112.0/20
+Require not ip 109.104.112.0/24
+Require not ip 109.104.114.0/23
+Require not ip 109.104.116.0/22
+Require not ip 109.104.120.0/21
 Require not ip 109.107.32.0/19
 Require not ip 109.107.154.0/23
 Require not ip 109.108.128.0/19
@@ -5208,7 +5211,6 @@ Require not ip 185.234.255.0/24
 Require not ip 185.235.0.0/22
 Require not ip 185.235.63.0/24
 Require not ip 185.235.78.0/24
-Require not ip 185.235.80.0/22
 Require not ip 185.235.96.0/22
 Require not ip 185.235.226.0/24
 Require not ip 185.235.236.0/22
@@ -6566,6 +6568,7 @@ Require not ip 194.34.64.0/19
 Require not ip 194.34.112.0/20
 Require not ip 194.34.138.0/24
 Require not ip 194.34.144.0/21
+Require not ip 194.34.166.0/24
 Require not ip 194.34.168.0/22
 Require not ip 194.34.174.0/24
 Require not ip 194.34.176.0/20
@@ -7294,6 +7297,8 @@ Require not ip 195.211.69.0/24
 Require not ip 195.211.92.0/22
 Require not ip 195.211.250.0/24
 Require not ip 195.213.0.0/16
+Require not ip 195.214.212.0/24
+Require not ip 195.214.215.0/24
 Require not ip 195.216.0.0/19
 Require not ip 195.216.196.0/23
 Require not ip 195.217.0.0/16
