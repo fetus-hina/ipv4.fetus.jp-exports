@@ -1551,7 +1551,10 @@ Require not ip 125.0.64.0/18
 Require not ip 125.0.128.0/17
 Require not ip 125.1.0.0/17
 Require not ip 125.1.192.0/18
-Require not ip 125.2.0.0/15
+Require not ip 125.2.0.0/16
+Require not ip 125.3.0.0/18
+Require not ip 125.3.96.0/19
+Require not ip 125.3.128.0/17
 Require not ip 125.4.0.0/16
 Require not ip 125.6.0.0/16
 Require not ip 125.8.0.0/13
