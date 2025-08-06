@@ -2703,7 +2703,10 @@
   <add allowed="false" ipAddress="157.20.102.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="157.20.112.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="157.20.140.0" subnetMask="255.255.254.0" />
-  <add allowed="false" ipAddress="157.85.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="157.85.0.0" subnetMask="255.255.128.0" />
+  <add allowed="false" ipAddress="157.85.128.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="157.85.192.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="157.85.240.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="157.128.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="157.155.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="157.211.0.0" subnetMask="255.255.0.0" />
