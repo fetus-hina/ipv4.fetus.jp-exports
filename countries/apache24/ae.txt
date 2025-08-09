@@ -195,7 +195,8 @@ Require not ip 45.146.40.0/22
 Require not ip 45.146.168.0/22
 Require not ip 45.146.228.0/22
 Require not ip 45.147.0.0/22
-Require not ip 45.147.192.0/22
+Require not ip 45.147.192.0/23
+Require not ip 45.147.194.0/24
 Require not ip 45.147.200.0/22
 Require not ip 45.147.244.0/22
 Require not ip 45.147.252.0/22
@@ -264,7 +265,8 @@ Require not ip 77.81.182.0/24
 Require not ip 77.83.1.0/24
 Require not ip 77.83.2.0/23
 Require not ip 77.83.4.0/22
-Require not ip 77.83.72.0/22
+Require not ip 77.83.73.0/24
+Require not ip 77.83.74.0/23
 Require not ip 77.83.80.0/22
 Require not ip 77.83.92.0/22
 Require not ip 77.83.104.0/22
@@ -326,6 +328,7 @@ Require not ip 85.209.176.0/22
 Require not ip 86.62.16.0/22
 Require not ip 86.96.0.0/14
 Require not ip 86.105.4.0/24
+Require not ip 86.105.151.0/24
 Require not ip 86.106.26.0/24
 Require not ip 86.107.50.0/23
 Require not ip 86.107.100.0/23
