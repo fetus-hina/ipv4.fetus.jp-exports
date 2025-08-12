@@ -93,6 +93,7 @@
 -A RULE1 -s 49.0.32.0/20       -j RULE2
 -A RULE1 -s 49.0.48.0/21       -j RULE2
 -A RULE1 -s 49.128.1.0/24      -j RULE2
+-A RULE1 -s 49.213.32.0/23     -j RULE2
 -A RULE1 -s 58.65.224.0/21     -j RULE2
 -A RULE1 -s 58.84.32.0/22      -j RULE2
 -A RULE1 -s 58.97.136.0/21     -j RULE2
