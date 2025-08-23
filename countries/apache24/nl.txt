@@ -2259,7 +2259,10 @@ Require not ip 145.0.0.0/16
 Require not ip 145.1.0.0/17
 Require not ip 145.2.0.0/15
 Require not ip 145.4.0.0/14
-Require not ip 145.8.0.0/14
+Require not ip 145.8.0.0/15
+Require not ip 145.10.0.0/16
+Require not ip 145.11.0.0/18
+Require not ip 145.11.128.0/17
 Require not ip 145.12.0.0/15
 Require not ip 145.14.0.0/22
 Require not ip 145.14.8.0/21

@@ -2262,7 +2262,10 @@
   <add allowed="false" ipAddress="145.1.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="145.2.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="145.4.0.0" subnetMask="255.252.0.0" />
-  <add allowed="false" ipAddress="145.8.0.0" subnetMask="255.252.0.0" />
+  <add allowed="false" ipAddress="145.8.0.0" subnetMask="255.254.0.0" />
+  <add allowed="false" ipAddress="145.10.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="145.11.0.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="145.11.128.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="145.12.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="145.14.0.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="145.14.8.0" subnetMask="255.255.248.0" />
