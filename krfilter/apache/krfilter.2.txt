@@ -5459,6 +5459,7 @@ deny from 103.111.48.0/21
 deny from 103.111.56.0/22
 deny from 103.111.64.0/22
 deny from 103.111.70.0/24
+deny from 103.111.80.0/22
 deny from 103.111.86.0/24
 deny from 103.111.92.0/22
 deny from 103.111.96.0/20
@@ -7406,7 +7407,7 @@ deny from 103.158.40.0/21
 deny from 103.158.48.0/23
 deny from 103.158.50.0/24
 deny from 103.158.52.0/22
-deny from 103.158.56.0/22
+deny from 103.158.56.0/23
 deny from 103.158.65.0/24
 deny from 103.158.66.0/23
 deny from 103.158.68.0/22
@@ -12483,7 +12484,12 @@ deny from 154.8.128.0/17
 deny from 154.10.0.0/16
 deny from 154.32.0.0/16
 deny from 155.137.128.0/17
-deny from 155.212.0.0/16
+deny from 155.212.0.0/17
+deny from 155.212.128.0/18
+deny from 155.212.192.0/19
+deny from 155.212.224.0/20
+deny from 155.212.240.0/21
+deny from 155.212.252.0/22
 deny from 155.230.0.0/16
 deny from 156.147.0.0/16
 deny from 157.0.0.0/16
@@ -15099,6 +15105,7 @@ deny from 202.134.128.0/18
 deny from 202.134.192.0/19
 deny from 202.136.48.0/20
 deny from 202.136.68.0/22
+deny from 202.136.72.0/23
 deny from 202.136.80.0/21
 deny from 202.136.112.0/20
 deny from 202.136.128.0/19
@@ -15886,6 +15893,7 @@ deny from 203.25.242.0/24
 deny from 203.26.12.0/24
 deny from 203.26.34.0/24
 deny from 203.26.40.0/24
+deny from 203.26.47.0/24
 deny from 203.26.49.0/24
 deny from 203.26.50.0/24
 deny from 203.26.55.0/24
@@ -15914,6 +15922,7 @@ deny from 203.26.185.0/24
 deny from 203.26.202.0/23
 deny from 203.26.210.0/24
 deny from 203.26.214.0/24
+deny from 203.26.218.0/24
 deny from 203.26.222.0/24
 deny from 203.26.224.0/24
 deny from 203.26.226.0/23
@@ -15927,6 +15936,7 @@ deny from 203.27.15.0/24
 deny from 203.27.16.0/24
 deny from 203.27.20.0/24
 deny from 203.27.22.0/23
+deny from 203.27.34.0/24
 deny from 203.27.40.0/24
 deny from 203.27.45.0/24
 deny from 203.27.53.0/24
@@ -15952,6 +15962,7 @@ deny from 203.28.33.0/24
 deny from 203.28.34.0/23
 deny from 203.28.43.0/24
 deny from 203.28.44.0/24
+deny from 203.28.53.0/24
 deny from 203.28.54.0/24
 deny from 203.28.56.0/24
 deny from 203.28.73.0/24
