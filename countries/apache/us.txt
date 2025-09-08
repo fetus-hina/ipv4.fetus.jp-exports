@@ -1135,6 +1135,7 @@ deny from 23.145.12.0/24
 deny from 23.145.16.0/24
 deny from 23.145.20.0/24
 deny from 23.145.24.0/24
+deny from 23.145.28.0/24
 deny from 23.145.32.0/23
 deny from 23.145.40.0/24
 deny from 23.145.48.0/24
@@ -5862,7 +5863,10 @@ deny from 72.52.0.0/16
 deny from 72.53.160.0/19
 deny from 72.55.0.0/17
 deny from 72.55.192.0/18
-deny from 72.56.0.0/14
+deny from 72.56.0.0/16
+deny from 72.57.0.0/18
+deny from 72.57.128.0/17
+deny from 72.58.0.0/15
 deny from 72.64.0.0/10
 deny from 72.128.0.0/13
 deny from 72.144.0.0/12
