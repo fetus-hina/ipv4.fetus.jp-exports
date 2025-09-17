@@ -674,7 +674,6 @@
 -A RULE1 -s 95.38.0.0/16       -j RULE2
 -A RULE1 -s 95.64.0.0/17       -j RULE2
 -A RULE1 -s 95.80.128.0/18     -j RULE2
--A RULE1 -s 95.81.92.0/22      -j RULE2
 -A RULE1 -s 95.128.155.0/24    -j RULE2
 -A RULE1 -s 95.128.159.0/24    -j RULE2
 -A RULE1 -s 95.128.194.0/24    -j RULE2
