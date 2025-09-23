@@ -65,3 +65,4 @@
 -A RULE1 -s 213.137.0.0/19     -j RULE2
 -A RULE1 -s 217.23.160.0/20    -j RULE2
 -A RULE1 -s 217.28.0.0/20      -j RULE2
+-A RULE1 -s 217.180.38.0/24    -j RULE2
