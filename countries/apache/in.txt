@@ -235,7 +235,7 @@ deny from 43.239.240.0/21
 deny from 43.240.4.0/22
 deny from 43.240.8.0/22
 deny from 43.240.64.0/22
-deny from 43.240.232.0/23
+deny from 43.240.232.0/22
 deny from 43.241.24.0/21
 deny from 43.241.36.0/22
 deny from 43.241.40.0/22
@@ -5559,6 +5559,7 @@ deny from 123.236.0.0/14
 deny from 123.242.240.0/20
 deny from 123.252.128.0/17
 deny from 123.253.8.0/21
+deny from 123.253.116.0/23
 deny from 123.253.124.0/22
 deny from 123.253.143.0/24
 deny from 123.253.156.0/22
