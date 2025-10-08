@@ -1504,7 +1504,9 @@ deny from 200.115.186.0/23
 deny from 200.115.192.0/18
 deny from 200.117.0.0/16
 deny from 200.122.0.0/17
-deny from 200.123.32.0/20
+deny from 200.123.32.0/22
+deny from 200.123.38.0/23
+deny from 200.123.40.0/21
 deny from 200.123.48.0/21
 deny from 200.123.56.0/22
 deny from 200.123.60.0/23

@@ -1136,6 +1136,7 @@
 -A RULE1 -s 65.108.0.0/15      -j RULE2
 -A RULE1 -s 65.111.0.0/19      -j RULE2
 -A RULE1 -s 69.64.32.0/19      -j RULE2
+-A RULE1 -s 72.251.252.0/22    -j RULE2
 -A RULE1 -s 75.119.128.0/19    -j RULE2
 -A RULE1 -s 76.74.180.0/22     -j RULE2
 -A RULE1 -s 77.0.0.0/12        -j RULE2

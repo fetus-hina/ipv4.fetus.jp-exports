@@ -750,6 +750,7 @@
 -A RULE1 -s 87.88.0.0/14       -j RULE2
 -A RULE1 -s 87.98.128.0/17     -j RULE2
 -A RULE1 -s 87.100.0.0/17      -j RULE2
+-A RULE1 -s 87.121.88.0/24     -j RULE2
 -A RULE1 -s 87.121.136.0/21    -j RULE2
 -A RULE1 -s 87.121.208.0/21    -j RULE2
 -A RULE1 -s 87.231.0.0/16      -j RULE2
