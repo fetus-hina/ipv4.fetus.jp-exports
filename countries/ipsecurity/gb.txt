@@ -3732,7 +3732,10 @@
   <add allowed="false" ipAddress="178.78.64.0" subnetMask="255.255.192.0" />
   <add allowed="false" ipAddress="178.98.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="178.100.0.0" subnetMask="255.252.0.0" />
-  <add allowed="false" ipAddress="178.106.0.0" subnetMask="255.254.0.0" />
+  <add allowed="false" ipAddress="178.106.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="178.107.32.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="178.107.64.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="178.107.128.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="178.159.0.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="178.159.176.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="178.170.128.0" subnetMask="255.255.252.0" />
