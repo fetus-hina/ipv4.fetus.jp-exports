@@ -1313,10 +1313,15 @@ deny from 23.148.180.0/24
 deny from 23.148.188.0/24
 deny from 23.148.196.0/24
 deny from 23.148.200.0/23
+deny from 23.148.204.0/24
 deny from 23.148.208.0/24
+deny from 23.148.212.0/24
 deny from 23.148.216.0/24
+deny from 23.148.220.0/24
 deny from 23.148.224.0/24
+deny from 23.148.228.0/24
 deny from 23.148.232.0/24
+deny from 23.148.236.0/24
 deny from 23.148.248.0/24
 deny from 23.149.8.0/24
 deny from 23.149.16.0/24
@@ -13260,8 +13265,7 @@ deny from 168.222.0.0/17
 deny from 168.222.128.0/19
 deny from 168.222.160.0/20
 deny from 168.222.176.0/22
-deny from 168.222.184.0/22
-deny from 168.222.192.0/19
+deny from 168.222.208.0/20
 deny from 168.222.224.0/21
 deny from 168.222.236.0/22
 deny from 168.222.240.0/21
