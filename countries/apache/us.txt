@@ -3261,7 +3261,8 @@ deny from 50.117.0.0/17
 deny from 50.118.0.0/16
 deny from 50.120.0.0/13
 deny from 50.128.0.0/9
-deny from 51.0.0.0/16
+deny from 51.0.32.0/19
+deny from 51.0.64.0/18
 deny from 51.3.0.0/16
 deny from 51.16.0.0/15
 deny from 51.20.0.0/14
@@ -3275,8 +3276,6 @@ deny from 51.50.0.0/16
 deny from 51.60.0.0/16
 deny from 51.69.0.0/16
 deny from 51.70.0.0/16
-deny from 51.72.0.0/15
-deny from 51.74.0.0/16
 deny from 51.76.0.0/16
 deny from 51.78.0.0/16
 deny from 51.80.0.0/15
@@ -3320,7 +3319,7 @@ deny from 51.208.0.0/15
 deny from 51.212.0.0/14
 deny from 51.216.0.0/15
 deny from 51.220.0.0/15
-deny from 51.224.0.0/14
+deny from 51.226.0.0/15
 deny from 51.228.0.0/15
 deny from 51.232.0.0/15
 deny from 51.236.0.0/15
@@ -6610,7 +6609,6 @@ deny from 83.97.116.0/22
 deny from 83.116.0.0/15
 deny from 83.118.228.0/22
 deny from 83.118.232.0/21
-deny from 83.118.240.0/20
 deny from 83.119.64.0/18
 deny from 83.119.128.0/17
 deny from 83.128.0.0/15
@@ -9502,7 +9500,9 @@ deny from 138.210.0.0/16
 deny from 138.220.0.0/16
 deny from 138.226.0.0/17
 deny from 138.226.128.0/18
-deny from 138.226.192.0/19
+deny from 138.226.192.0/20
+deny from 138.226.208.0/21
+deny from 138.226.216.0/22
 deny from 138.229.0.0/20
 deny from 138.229.32.0/19
 deny from 138.229.64.0/19
@@ -9960,6 +9960,7 @@ deny from 142.248.8.0/22
 deny from 142.248.16.0/22
 deny from 142.248.24.0/22
 deny from 142.248.32.0/22
+deny from 142.248.36.0/23
 deny from 142.248.39.0/24
 deny from 142.248.40.0/21
 deny from 142.248.48.0/21
@@ -11109,7 +11110,11 @@ deny from 153.40.0.0/15
 deny from 153.42.0.0/16
 deny from 153.45.0.0/16
 deny from 153.46.0.0/15
-deny from 153.48.0.0/12
+deny from 153.48.0.0/15
+deny from 153.50.0.0/16
+deny from 153.51.128.0/17
+deny from 153.52.0.0/14
+deny from 153.56.0.0/13
 deny from 153.64.0.0/12
 deny from 153.80.0.0/13
 deny from 153.90.0.0/15
@@ -19651,7 +19656,6 @@ deny from 193.201.252.0/22
 deny from 193.202.16.0/24
 deny from 193.202.106.0/24
 deny from 193.202.113.0/24
-deny from 193.202.192.0/19
 deny from 193.203.28.0/22
 deny from 193.203.36.0/24
 deny from 193.203.39.0/24
