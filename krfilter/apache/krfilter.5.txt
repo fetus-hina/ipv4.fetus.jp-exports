@@ -4547,6 +4547,7 @@ deny from 164.177.176.0/21
 deny from 164.177.192.0/18
 deny from 164.215.48.0/21
 deny from 164.215.64.0/19
+deny from 168.222.176.0/22
 deny from 171.22.72.0/22
 deny from 171.22.180.0/22
 deny from 171.22.212.0/22
@@ -4849,8 +4850,7 @@ deny from 178.57.96.0/19
 deny from 178.57.192.0/18
 deny from 178.64.0.0/13
 deny from 178.72.64.0/18
-deny from 178.72.128.0/19
-deny from 178.72.160.0/20
+deny from 178.72.128.0/18
 deny from 178.74.64.0/18
 deny from 178.74.128.0/18
 deny from 178.75.0.0/17
