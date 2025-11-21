@@ -931,7 +931,8 @@ deny from 193.90.0.0/16
 deny from 193.91.128.0/17
 deny from 193.93.128.0/22
 deny from 193.93.220.0/22
-deny from 193.93.252.0/22
+deny from 193.93.253.0/24
+deny from 193.93.254.0/23
 deny from 193.104.105.0/24
 deny from 193.105.77.0/24
 deny from 193.105.112.0/24
