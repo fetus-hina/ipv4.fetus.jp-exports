@@ -338,7 +338,6 @@
 -A RULE1 -s 88.135.72.0/24     -j RULE2
 -A RULE1 -s 88.135.75.0/24     -j RULE2
 -A RULE1 -s 88.218.16.0/22     -j RULE2
--A RULE1 -s 89.23.126.0/24     -j RULE2
 -A RULE1 -s 89.32.0.0/19       -j RULE2
 -A RULE1 -s 89.32.96.0/20      -j RULE2
 -A RULE1 -s 89.32.196.0/23     -j RULE2
