@@ -552,6 +552,7 @@
 -A RULE1 -s 80.94.112.0/20     -j RULE2
 -A RULE1 -s 80.104.0.0/15      -j RULE2
 -A RULE1 -s 80.116.0.0/15      -j RULE2
+-A RULE1 -s 80.173.224.0/22    -j RULE2
 -A RULE1 -s 80.180.0.0/14      -j RULE2
 -A RULE1 -s 80.204.0.0/14      -j RULE2
 -A RULE1 -s 80.208.248.0/22    -j RULE2
