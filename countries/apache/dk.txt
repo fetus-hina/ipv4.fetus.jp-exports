@@ -403,7 +403,8 @@ deny from 109.236.176.0/20
 deny from 109.238.48.0/20
 deny from 128.0.8.0/21
 deny from 128.0.72.0/21
-deny from 128.76.0.0/16
+deny from 128.76.0.0/18
+deny from 128.76.128.0/17
 deny from 128.77.128.0/17
 deny from 129.142.0.0/16
 deny from 130.185.128.0/20
@@ -433,7 +434,7 @@ deny from 170.118.224.0/20
 deny from 171.20.0.0/16
 deny from 171.25.228.0/24
 deny from 176.20.0.0/17
-deny from 176.20.192.0/18
+deny from 176.20.224.0/19
 deny from 176.21.0.0/16
 deny from 176.22.0.0/15
 deny from 176.62.200.0/21

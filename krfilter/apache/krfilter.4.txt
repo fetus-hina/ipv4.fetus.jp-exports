@@ -4155,7 +4155,10 @@ deny from 62.26.0.0/15
 deny from 62.28.0.0/16
 deny from 62.29.128.0/17
 deny from 62.30.0.0/15
-deny from 62.32.32.0/19
+deny from 62.32.32.0/24
+deny from 62.32.36.0/22
+deny from 62.32.40.0/21
+deny from 62.32.48.0/20
 deny from 62.32.128.0/17
 deny from 62.34.0.0/15
 deny from 62.36.0.0/14
@@ -4492,6 +4495,7 @@ deny from 62.201.0.0/17
 deny from 62.201.128.0/18
 deny from 62.204.0.0/19
 deny from 62.204.33.0/24
+deny from 62.204.35.0/24
 deny from 62.204.37.0/24
 deny from 62.204.39.0/24
 deny from 62.204.40.0/24
@@ -15485,6 +15489,7 @@ deny from 152.143.0.0/16
 deny from 152.148.0.0/16
 deny from 152.150.0.0/16
 deny from 152.152.0.0/16
+deny from 152.163.0.0/16
 deny from 152.228.64.0/19
 deny from 152.228.128.0/17
 deny from 152.233.0.0/17
@@ -16282,7 +16287,11 @@ deny from 176.12.0.0/18
 deny from 176.12.80.0/20
 deny from 176.12.104.0/21
 deny from 176.12.112.0/20
-deny from 176.20.0.0/14
+deny from 176.20.0.0/17
+deny from 176.20.128.0/18
+deny from 176.20.224.0/19
+deny from 176.21.0.0/16
+deny from 176.22.0.0/15
 deny from 176.24.0.0/14
 deny from 176.28.0.0/18
 deny from 176.28.88.0/21
@@ -28577,9 +28586,7 @@ deny from 193.163.48.0/22
 deny from 193.163.52.0/23
 deny from 193.163.54.0/24
 deny from 193.163.56.0/21
-deny from 193.163.64.0/22
-deny from 193.163.68.0/23
-deny from 193.163.71.0/24
+deny from 193.163.64.0/21
 deny from 193.163.73.0/24
 deny from 193.163.77.0/24
 deny from 193.163.78.0/23
@@ -34145,6 +34152,7 @@ deny from 204.235.176.0/20
 deny from 205.132.48.0/21
 deny from 205.132.144.0/21
 deny from 205.147.200.0/23
+deny from 205.188.0.0/16
 deny from 205.201.55.0/24
 deny from 205.210.40.0/24
 deny from 205.211.83.0/24
@@ -35355,7 +35363,11 @@ deny from 213.186.64.0/19
 deny from 213.186.224.0/19
 deny from 213.187.0.0/18
 deny from 213.187.64.0/19
-deny from 213.187.128.0/17
+deny from 213.187.128.0/20
+deny from 213.187.144.0/22
+deny from 213.187.152.0/22
+deny from 213.187.160.0/19
+deny from 213.187.192.0/18
 deny from 213.188.0.0/19
 deny from 213.188.96.0/19
 deny from 213.188.128.0/18

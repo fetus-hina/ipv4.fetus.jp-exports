@@ -1176,7 +1176,7 @@
 -A RULE1 -s 72.51.8.0/21       -j RULE2
 -A RULE1 -s 72.51.16.0/20      -j RULE2
 -A RULE1 -s 72.51.32.0/20      -j RULE2
--A RULE1 -s 72.51.48.0/21      -j RULE2
+-A RULE1 -s 72.51.48.0/22      -j RULE2
 -A RULE1 -s 72.51.60.0/22      -j RULE2
 -A RULE1 -s 72.53.0.0/17       -j RULE2
 -A RULE1 -s 72.53.128.0/19     -j RULE2
