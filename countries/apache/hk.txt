@@ -642,7 +642,6 @@ deny from 103.10.236.0/22
 deny from 103.11.72.0/23
 deny from 103.11.88.0/21
 deny from 103.11.100.0/22
-deny from 103.11.104.0/23
 deny from 103.11.108.0/22
 deny from 103.11.228.0/22
 deny from 103.12.48.0/22
@@ -2153,6 +2152,7 @@ deny from 185.253.4.0/24
 deny from 188.64.140.0/24
 deny from 188.93.136.0/24
 deny from 188.95.8.0/22
+deny from 191.1.0.0/16
 deny from 192.75.137.0/24
 deny from 192.94.174.0/24
 deny from 192.100.68.0/24
