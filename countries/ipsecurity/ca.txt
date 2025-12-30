@@ -836,6 +836,7 @@
   <add allowed="false" ipAddress="66.132.254.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="66.135.96.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="66.146.128.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="66.147.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="66.152.64.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="66.154.96.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="66.155.0.0" subnetMask="255.255.192.0" />
@@ -4416,7 +4417,9 @@
   <add allowed="false" ipAddress="199.246.180.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="199.246.184.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="199.246.192.0" subnetMask="255.255.240.0" />
-  <add allowed="false" ipAddress="199.246.208.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="199.246.208.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="199.246.212.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="199.246.214.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="199.246.218.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="199.246.220.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="199.246.227.0" subnetMask="255.255.255.0" />
@@ -4831,7 +4834,7 @@
   <add allowed="false" ipAddress="204.225.188.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="204.225.191.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="204.225.192.0" subnetMask="255.255.240.0" />
-  <add allowed="false" ipAddress="204.225.210.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="204.225.211.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="204.225.212.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="204.225.216.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="204.225.219.0" subnetMask="255.255.255.0" />
