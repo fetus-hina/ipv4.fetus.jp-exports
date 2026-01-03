@@ -2644,7 +2644,6 @@ deny from 185.1.160.0/23
 deny from 185.1.190.0/24
 deny from 185.1.222.0/23
 deny from 185.1.240.0/24
-deny from 185.1.255.0/24
 deny from 185.2.24.0/21
 deny from 185.2.32.0/22
 deny from 185.2.44.0/22
@@ -3266,6 +3265,7 @@ deny from 185.140.224.0/22
 deny from 185.142.0.0/22
 deny from 185.142.32.0/22
 deny from 185.142.76.0/22
+deny from 185.142.130.0/24
 deny from 185.142.144.0/22
 deny from 185.142.248.0/21
 deny from 185.143.28.0/22
