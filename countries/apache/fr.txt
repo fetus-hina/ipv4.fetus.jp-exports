@@ -539,7 +539,10 @@ deny from 78.155.128.0/19
 deny from 78.159.0.0/19
 deny from 78.159.132.0/22
 deny from 78.159.148.0/24
-deny from 78.192.0.0/10
+deny from 78.192.0.0/11
+deny from 78.231.0.0/16
+deny from 78.232.0.0/13
+deny from 78.240.0.0/12
 deny from 79.80.0.0/12
 deny from 79.98.16.0/21
 deny from 79.98.56.0/21
