@@ -310,6 +310,7 @@
 -A RULE1 -s 64.190.43.0/24     -j RULE2
 -A RULE1 -s 64.190.141.0/24    -j RULE2
 -A RULE1 -s 64.225.128.0/20    -j RULE2
+-A RULE1 -s 69.46.41.0/24      -j RULE2
 -A RULE1 -s 74.63.0.0/20       -j RULE2
 -A RULE1 -s 77.32.240.0/20     -j RULE2
 -A RULE1 -s 77.45.0.0/17       -j RULE2
