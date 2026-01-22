@@ -29,6 +29,8 @@
 -A RULE1 -s 5.180.116.0/22     -j RULE2
 -A RULE1 -s 5.180.132.0/22     -j RULE2
 -A RULE1 -s 5.181.13.0/24      -j RULE2
+-A RULE1 -s 5.182.61.0/24      -j RULE2
+-A RULE1 -s 5.182.62.0/24      -j RULE2
 -A RULE1 -s 5.182.248.0/22     -j RULE2
 -A RULE1 -s 5.183.0.0/21       -j RULE2
 -A RULE1 -s 5.187.36.0/23      -j RULE2
