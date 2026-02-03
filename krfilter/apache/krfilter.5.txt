@@ -4505,7 +4505,6 @@ deny from 149.255.0.0/19
 deny from 149.255.112.0/21
 deny from 149.255.132.0/22
 deny from 149.255.160.0/21
-deny from 151.0.0.0/18
 deny from 151.236.64.0/18
 deny from 151.237.168.0/21
 deny from 151.237.240.0/21
@@ -4530,6 +4529,8 @@ deny from 155.212.234.0/23
 deny from 155.212.236.0/22
 deny from 155.212.244.0/22
 deny from 155.212.248.0/21
+deny from 157.22.176.0/20
+deny from 157.22.192.0/20
 deny from 157.22.216.0/21
 deny from 157.22.224.0/21
 deny from 157.22.240.0/21
