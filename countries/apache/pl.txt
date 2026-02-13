@@ -296,6 +296,7 @@ deny from 62.122.232.0/21
 deny from 62.129.192.0/18
 deny from 62.133.128.0/19
 deny from 62.141.192.0/18
+deny from 62.144.32.0/19
 deny from 62.148.64.0/19
 deny from 62.152.128.0/19
 deny from 62.181.0.0/19
@@ -1857,7 +1858,6 @@ deny from 185.1.145.0/24
 deny from 185.1.164.0/24
 deny from 185.1.199.0/24
 deny from 185.1.217.0/24
-deny from 185.1.254.0/24
 deny from 185.2.36.0/22
 deny from 185.2.112.0/22
 deny from 185.3.60.0/22

@@ -1077,7 +1077,9 @@ Require not ip 62.138.0.0/16
 Require not ip 62.141.32.0/19
 Require not ip 62.141.160.0/19
 Require not ip 62.143.0.0/16
-Require not ip 62.144.0.0/16
+Require not ip 62.144.0.0/19
+Require not ip 62.144.64.0/18
+Require not ip 62.144.128.0/17
 Require not ip 62.145.0.0/19
 Require not ip 62.146.0.0/17
 Require not ip 62.146.128.0/19
