@@ -1196,7 +1196,6 @@ deny from 82.199.64.0/19
 deny from 82.201.0.0/17
 deny from 82.204.0.0/17
 deny from 82.210.96.0/19
-deny from 82.215.0.0/18
 deny from 82.217.0.0/16
 deny from 83.68.0.0/19
 deny from 83.80.0.0/13
@@ -2035,7 +2034,9 @@ deny from 94.247.138.0/23
 deny from 94.247.192.0/21
 deny from 95.36.0.0/20
 deny from 95.36.64.0/21
-deny from 95.36.96.0/19
+deny from 95.36.100.0/22
+deny from 95.36.104.0/21
+deny from 95.36.112.0/20
 deny from 95.36.128.0/17
 deny from 95.96.0.0/14
 deny from 95.100.0.0/15
