@@ -9813,6 +9813,7 @@ Require not ip 139.88.0.0/15
 Require not ip 139.93.0.0/16
 Require not ip 139.94.0.0/15
 Require not ip 139.96.0.0/16
+Require not ip 139.100.0.0/16
 Require not ip 139.102.0.0/16
 Require not ip 139.104.0.0/16
 Require not ip 139.121.0.0/16
@@ -12195,6 +12196,11 @@ Require not ip 161.97.190.0/23
 Require not ip 161.97.192.0/18
 Require not ip 161.98.0.0/15
 Require not ip 161.100.0.0/14
+Require not ip 161.104.0.0/17
+Require not ip 161.104.128.0/19
+Require not ip 161.104.160.0/20
+Require not ip 161.104.184.0/21
+Require not ip 161.104.224.0/19
 Require not ip 161.107.0.0/16
 Require not ip 161.108.0.0/18
 Require not ip 161.108.64.0/19
