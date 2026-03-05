@@ -1242,7 +1242,11 @@ Require not ip 94.247.160.0/21
 Require not ip 94.247.176.0/21
 Require not ip 94.247.232.0/21
 Require not ip 95.81.128.0/18
-Require not ip 95.111.128.0/19
+Require not ip 95.111.128.0/22
+Require not ip 95.111.132.0/23
+Require not ip 95.111.135.0/24
+Require not ip 95.111.136.0/21
+Require not ip 95.111.144.0/20
 Require not ip 95.128.40.0/21
 Require not ip 95.128.72.0/21
 Require not ip 95.128.144.0/21
@@ -1571,6 +1575,7 @@ Require not ip 164.138.56.0/21
 Require not ip 164.138.240.0/21
 Require not ip 164.177.0.0/17
 Require not ip 166.108.128.0/18
+Require not ip 167.254.248.0/22
 Require not ip 168.220.128.0/19
 Require not ip 170.37.203.0/24
 Require not ip 170.37.204.0/23
