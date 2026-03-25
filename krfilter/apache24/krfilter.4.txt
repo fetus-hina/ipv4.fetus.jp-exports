@@ -772,7 +772,9 @@ Require not ip 9.185.0.0/16
 Require not ip 9.190.0.0/16
 Require not ip 9.192.0.0/15
 Require not ip 9.198.0.0/16
-Require not ip 9.205.0.0/16
+Require not ip 9.204.0.0/15
+Require not ip 9.206.0.0/16
+Require not ip 9.210.0.0/15
 Require not ip 9.220.0.0/16
 Require not ip 9.223.0.0/16
 Require not ip 9.228.0.0/15
@@ -12893,7 +12895,7 @@ Require not ip 94.198.172.0/22
 Require not ip 94.198.176.0/21
 Require not ip 94.198.184.0/22
 Require not ip 94.198.189.0/24
-Require not ip 94.198.190.0/23
+Require not ip 94.198.191.0/24
 Require not ip 94.198.200.0/21
 Require not ip 94.198.208.0/21
 Require not ip 94.199.1.0/24
@@ -15535,7 +15537,6 @@ Require not ip 151.189.0.0/16
 Require not ip 151.206.0.0/16
 Require not ip 151.211.0.0/16
 Require not ip 151.212.0.0/16
-Require not ip 151.216.2.0/23
 Require not ip 151.216.16.0/20
 Require not ip 151.216.64.0/19
 Require not ip 151.224.0.0/13
@@ -25753,7 +25754,7 @@ Require not ip 192.109.204.0/24
 Require not ip 192.109.206.0/23
 Require not ip 192.109.208.0/23
 Require not ip 192.109.211.0/24
-Require not ip 192.109.212.0/23
+Require not ip 192.109.212.0/24
 Require not ip 192.109.216.0/24
 Require not ip 192.109.218.0/24
 Require not ip 192.109.221.0/24
@@ -34409,6 +34410,7 @@ Require not ip 206.41.72.0/21
 Require not ip 206.41.106.0/24
 Require not ip 206.53.138.0/24
 Require not ip 206.108.115.0/24
+Require not ip 206.109.198.0/24
 Require not ip 206.123.0.0/24
 Require not ip 206.123.30.0/24
 Require not ip 206.124.104.0/21
@@ -35698,7 +35700,14 @@ Require not ip 213.217.28.0/23
 Require not ip 213.217.30.0/24
 Require not ip 213.217.64.0/18
 Require not ip 213.217.128.0/17
-Require not ip 213.218.0.0/16
+Require not ip 213.218.0.0/17
+Require not ip 213.218.128.0/19
+Require not ip 213.218.161.0/24
+Require not ip 213.218.162.0/23
+Require not ip 213.218.164.0/22
+Require not ip 213.218.168.0/21
+Require not ip 213.218.176.0/20
+Require not ip 213.218.192.0/18
 Require not ip 213.219.0.0/19
 Require not ip 213.219.32.0/22
 Require not ip 213.219.40.0/21
