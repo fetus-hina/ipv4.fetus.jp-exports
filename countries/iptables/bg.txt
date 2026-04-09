@@ -80,7 +80,8 @@
 -A RULE1 -s 45.88.90.0/23      -j RULE2
 -A RULE1 -s 45.89.244.0/22     -j RULE2
 -A RULE1 -s 45.90.88.0/22      -j RULE2
--A RULE1 -s 45.91.192.0/22     -j RULE2
+-A RULE1 -s 45.91.192.0/23     -j RULE2
+-A RULE1 -s 45.91.194.0/24     -j RULE2
 -A RULE1 -s 45.95.0.0/22       -j RULE2
 -A RULE1 -s 45.128.4.0/22      -j RULE2
 -A RULE1 -s 45.128.88.0/22     -j RULE2
