@@ -6128,7 +6128,7 @@
   <entry>81.85.60.0/22</entry>
   <entry>81.85.64.0/21</entry>
   <entry>81.85.76.0/22</entry>
-  <entry>81.85.80.0/21</entry>
+  <entry>81.85.80.0/22</entry>
   <entry>81.85.92.0/22</entry>
   <entry>81.85.96.0/22</entry>
   <entry>81.85.100.0/24</entry>
@@ -15644,6 +15644,8 @@
   <entry>152.228.128.0/17</entry>
   <entry>152.233.0.0/17</entry>
   <entry>152.236.0.0/16</entry>
+  <entry>152.237.64.0/19</entry>
+  <entry>152.239.112.0/20</entry>
   <entry>153.1.0.0/16</entry>
   <entry>153.5.0.0/16</entry>
   <entry>153.17.0.0/16</entry>
@@ -16883,7 +16885,10 @@
   <entry>176.242.0.0/15</entry>
   <entry>176.244.0.0/14</entry>
   <entry>176.248.0.0/13</entry>
+  <entry>177.3.144.0/20</entry>
+  <entry>177.7.32.0/19</entry>
   <entry>177.8.68.0/24</entry>
+  <entry>177.202.240.0/20</entry>
   <entry>177.222.64.0/19</entry>
   <entry>178.0.0.0/12</entry>
   <entry>178.16.16.0/20</entry>
@@ -17283,7 +17288,18 @@
   <entry>178.255.223.0/24</entry>
   <entry>178.255.224.0/21</entry>
   <entry>178.255.240.0/22</entry>
+  <entry>179.66.128.0/19</entry>
+  <entry>179.67.192.0/19</entry>
+  <entry>179.67.224.0/20</entry>
   <entry>179.189.212.0/22</entry>
+  <entry>179.197.64.0/19</entry>
+  <entry>179.197.224.0/19</entry>
+  <entry>179.198.80.0/20</entry>
+  <entry>179.198.96.0/19</entry>
+  <entry>179.198.192.0/19</entry>
+  <entry>179.199.128.0/19</entry>
+  <entry>179.236.64.0/19</entry>
+  <entry>179.236.224.0/19</entry>
   <entry>180.149.36.0/22</entry>
   <entry>180.149.40.0/21</entry>
   <entry>180.149.196.0/22</entry>
@@ -19702,7 +19718,7 @@
   <entry>185.86.16.0/21</entry>
   <entry>185.86.24.0/22</entry>
   <entry>185.86.32.0/22</entry>
-  <entry>185.86.40.0/21</entry>
+  <entry>185.86.40.0/22</entry>
   <entry>185.86.48.0/21</entry>
   <entry>185.86.64.0/21</entry>
   <entry>185.86.72.0/22</entry>
@@ -24434,9 +24450,27 @@
   <entry>185.255.232.0/21</entry>
   <entry>185.255.240.0/20</entry>
   <entry>186.2.244.0/22</entry>
+  <entry>186.240.144.0/20</entry>
+  <entry>186.241.16.0/20</entry>
+  <entry>186.242.128.0/20</entry>
+  <entry>186.242.208.0/20</entry>
+  <entry>186.244.144.0/20</entry>
+  <entry>187.4.208.0/20</entry>
+  <entry>187.6.160.0/19</entry>
+  <entry>187.7.16.0/20</entry>
+  <entry>187.7.64.0/20</entry>
   <entry>187.33.144.0/20</entry>
+  <entry>187.41.80.0/20</entry>
+  <entry>187.41.96.0/19</entry>
+  <entry>187.52.112.0/20</entry>
+  <entry>187.53.96.0/19</entry>
+  <entry>187.53.128.0/20</entry>
+  <entry>187.55.224.0/20</entry>
   <entry>187.77.0.0/16</entry>
+  <entry>187.78.176.0/20</entry>
   <entry>187.124.0.0/16</entry>
+  <entry>187.126.0.0/19</entry>
+  <entry>187.126.112.0/20</entry>
   <entry>187.127.0.0/16</entry>
   <entry>188.0.32.0/21</entry>
   <entry>188.0.48.0/20</entry>
@@ -24983,15 +25017,41 @@
   <entry>188.250.0.0/15</entry>
   <entry>188.252.0.0/16</entry>
   <entry>188.254.128.0/17</entry>
+  <entry>189.10.112.0/20</entry>
+  <entry>189.11.176.0/20</entry>
+  <entry>189.12.80.0/20</entry>
+  <entry>189.12.96.0/19</entry>
+  <entry>189.12.192.0/20</entry>
+  <entry>189.24.0.0/19</entry>
+  <entry>189.24.32.0/20</entry>
   <entry>189.28.64.0/19</entry>
+  <entry>189.30.160.0/20</entry>
+  <entry>189.31.32.0/20</entry>
+  <entry>189.31.80.0/20</entry>
+  <entry>189.31.96.0/20</entry>
+  <entry>189.49.80.0/20</entry>
+  <entry>189.49.96.0/19</entry>
+  <entry>189.72.144.0/20</entry>
+  <entry>189.72.176.0/20</entry>
+  <entry>189.73.96.0/20</entry>
+  <entry>189.73.128.0/20</entry>
+  <entry>189.73.224.0/20</entry>
+  <entry>189.75.32.0/20</entry>
   <entry>189.81.0.0/16</entry>
   <entry>189.104.0.0/16</entry>
+  <entry>189.105.32.0/19</entry>
   <entry>190.92.168.0/21</entry>
   <entry>190.106.64.0/20</entry>
   <entry>190.106.160.0/19</entry>
   <entry>190.123.0.0/23</entry>
   <entry>190.211.144.0/24</entry>
   <entry>191.44.64.0/18</entry>
+  <entry>191.45.0.0/19</entry>
+  <entry>191.215.32.0/19</entry>
+  <entry>191.216.48.0/20</entry>
+  <entry>191.216.80.0/20</entry>
+  <entry>191.216.112.0/20</entry>
+  <entry>191.218.160.0/19</entry>
   <entry>192.2.0.0/16</entry>
   <entry>192.5.28.0/23</entry>
   <entry>192.5.30.0/24</entry>
@@ -25252,6 +25312,7 @@
   <entry>192.64.125.0/24</entry>
   <entry>192.64.202.0/24</entry>
   <entry>192.65.16.0/24</entry>
+  <entry>192.65.28.0/23</entry>
   <entry>192.65.51.0/24</entry>
   <entry>192.65.52.0/22</entry>
   <entry>192.65.56.0/21</entry>
@@ -30896,7 +30957,7 @@
   <entry>194.62.1.0/24</entry>
   <entry>194.62.2.0/23</entry>
   <entry>194.62.4.0/22</entry>
-  <entry>194.62.8.0/21</entry>
+  <entry>194.62.8.0/22</entry>
   <entry>194.62.16.0/24</entry>
   <entry>194.62.20.0/22</entry>
   <entry>194.62.24.0/22</entry>
@@ -34251,10 +34312,17 @@
   <entry>199.255.143.0/24</entry>
   <entry>200.13.136.0/21</entry>
   <entry>200.69.8.0/21</entry>
+  <entry>200.97.160.0/19</entry>
+  <entry>200.141.0.0/19</entry>
   <entry>200.162.144.0/20</entry>
+  <entry>200.234.32.0/19</entry>
   <entry>200.234.224.0/20</entry>
+  <entry>201.18.192.0/19</entry>
   <entry>201.46.112.0/23</entry>
   <entry>201.49.188.0/22</entry>
+  <entry>201.58.96.0/19</entry>
+  <entry>201.58.224.0/19</entry>
+  <entry>201.67.160.0/19</entry>
   <entry>201.77.48.0/20</entry>
   <entry>201.148.168.0/22</entry>
   <entry>202.2.60.0/22</entry>
