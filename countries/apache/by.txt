@@ -1,3 +1,4 @@
+deny from 5.44.44.0/24
 deny from 5.100.192.0/19
 deny from 31.24.88.0/21
 deny from 31.130.200.0/21
@@ -6,6 +7,7 @@ deny from 37.44.64.0/18
 deny from 37.45.0.0/16
 deny from 37.212.0.0/14
 deny from 45.128.205.0/24
+deny from 45.129.186.0/24
 deny from 46.16.35.0/24
 deny from 46.28.96.0/21
 deny from 46.53.128.0/17
