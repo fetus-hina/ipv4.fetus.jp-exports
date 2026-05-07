@@ -1065,7 +1065,6 @@ deny from 190.15.192.0/19
 deny from 190.15.224.0/20
 deny from 190.15.240.0/21
 deny from 190.15.248.0/23
-deny from 190.15.250.0/24
 deny from 190.16.0.0/14
 deny from 190.30.0.0/15
 deny from 190.48.0.0/14
@@ -1510,12 +1509,14 @@ deny from 200.117.0.0/16
 deny from 200.122.0.0/17
 deny from 200.123.32.0/22
 deny from 200.123.38.0/23
-deny from 200.123.40.0/22
+deny from 200.123.40.0/23
+deny from 200.123.43.0/24
 deny from 200.123.45.0/24
 deny from 200.123.46.0/23
 deny from 200.123.48.0/21
-deny from 200.123.56.0/22
-deny from 200.123.60.0/23
+deny from 200.123.56.0/23
+deny from 200.123.58.0/24
+deny from 200.123.60.0/24
 deny from 200.123.63.0/24
 deny from 200.123.64.0/18
 deny from 200.123.128.0/18
