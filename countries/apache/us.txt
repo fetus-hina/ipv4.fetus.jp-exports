@@ -1151,6 +1151,7 @@ deny from 23.145.252.0/24
 deny from 23.146.0.0/24
 deny from 23.146.4.0/24
 deny from 23.146.12.0/24
+deny from 23.146.16.0/22
 deny from 23.146.20.0/24
 deny from 23.146.24.0/24
 deny from 23.146.36.0/24
@@ -2843,12 +2844,11 @@ deny from 31.40.192.0/22
 deny from 31.42.112.0/22
 deny from 31.42.128.0/19
 deny from 31.64.0.0/14
-deny from 31.68.0.0/16
-deny from 31.69.128.0/18
-deny from 31.69.192.0/19
+deny from 31.68.0.0/15
 deny from 31.76.0.0/15
 deny from 31.98.0.0/16
 deny from 31.99.128.0/20
+deny from 31.99.144.0/21
 deny from 31.99.152.0/24
 deny from 31.105.0.0/16
 deny from 31.130.240.0/21
@@ -4452,6 +4452,7 @@ deny from 64.239.123.0/24
 deny from 64.239.126.0/24
 deny from 64.239.128.0/18
 deny from 64.239.192.0/19
+deny from 64.239.232.0/22
 deny from 64.239.240.0/20
 deny from 64.240.0.0/14
 deny from 64.244.0.0/15
@@ -5881,8 +5882,7 @@ deny from 69.50.0.0/18
 deny from 69.50.84.0/22
 deny from 69.50.88.0/21
 deny from 69.50.96.0/19
-deny from 69.50.128.0/19
-deny from 69.50.192.0/18
+deny from 69.50.128.0/17
 deny from 69.51.0.0/17
 deny from 69.51.128.0/18
 deny from 69.52.0.0/15
@@ -8379,7 +8379,9 @@ deny from 104.251.0.0/19
 deny from 104.251.48.0/20
 deny from 104.251.64.0/18
 deny from 104.251.128.0/20
-deny from 104.251.160.0/19
+deny from 104.251.160.0/20
+deny from 104.251.176.0/22
+deny from 104.251.184.0/21
 deny from 104.251.192.0/18
 deny from 104.252.0.0/15
 deny from 104.254.0.0/21
@@ -11385,6 +11387,8 @@ deny from 150.243.0.0/16
 deny from 150.245.0.0/16
 deny from 150.247.0.0/16
 deny from 150.250.0.0/16
+deny from 150.251.16.0/20
+deny from 150.251.192.0/20
 deny from 150.252.0.0/17
 deny from 150.252.128.0/18
 deny from 150.252.192.0/19
@@ -22718,6 +22722,7 @@ deny from 199.47.96.0/20
 deny from 199.47.112.0/21
 deny from 199.47.120.0/22
 deny from 199.47.128.0/20
+deny from 199.47.148.0/22
 deny from 199.47.152.0/21
 deny from 199.47.168.0/21
 deny from 199.47.176.0/20
@@ -22789,8 +22794,7 @@ deny from 199.59.72.0/22
 deny from 199.59.80.0/20
 deny from 199.59.96.0/19
 deny from 199.59.136.0/22
-deny from 199.59.148.0/22
-deny from 199.59.152.0/21
+deny from 199.59.144.0/20
 deny from 199.59.160.0/20
 deny from 199.59.176.0/21
 deny from 199.59.192.0/19
