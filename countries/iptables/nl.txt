@@ -2312,8 +2312,7 @@
 -A RULE1 -s 145.11.128.0/17    -j RULE2
 -A RULE1 -s 145.12.0.0/15      -j RULE2
 -A RULE1 -s 145.14.0.0/22      -j RULE2
--A RULE1 -s 145.14.8.0/21      -j RULE2
--A RULE1 -s 145.14.48.0/20     -j RULE2
+-A RULE1 -s 145.14.56.0/21     -j RULE2
 -A RULE1 -s 145.15.0.0/16      -j RULE2
 -A RULE1 -s 145.16.0.0/16      -j RULE2
 -A RULE1 -s 145.18.0.0/15      -j RULE2
