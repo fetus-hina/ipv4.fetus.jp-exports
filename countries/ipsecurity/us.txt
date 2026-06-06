@@ -11573,7 +11573,8 @@
   <add allowed="false" ipAddress="153.46.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="153.48.0.0" subnetMask="255.254.0.0" />
   <add allowed="false" ipAddress="153.50.0.0" subnetMask="255.255.0.0" />
-  <add allowed="false" ipAddress="153.52.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="153.52.64.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="153.52.128.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="153.55.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="153.55.128.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="153.55.160.0" subnetMask="255.255.240.0" />
