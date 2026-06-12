@@ -501,6 +501,7 @@
 -A RULE1 -s 159.216.0.0/16     -j RULE2
 -A RULE1 -s 159.253.8.0/21     -j RULE2
 -A RULE1 -s 159.253.122.0/24   -j RULE2
+-A RULE1 -s 160.5.224.0/20     -j RULE2
 -A RULE1 -s 160.67.0.0/16      -j RULE2
 -A RULE1 -s 160.68.0.0/16      -j RULE2
 -A RULE1 -s 161.4.0.0/16       -j RULE2
