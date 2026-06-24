@@ -3,6 +3,8 @@
 -A RULE1 -s 1.200.0.0/16       -j RULE2
 -A RULE1 -s 2.58.240.0/22      -j RULE2
 -A RULE1 -s 23.134.212.0/24    -j RULE2
+-A RULE1 -s 23.139.92.0/24     -j RULE2
+-A RULE1 -s 23.139.100.0/24    -j RULE2
 -A RULE1 -s 27.0.152.0/22      -j RULE2
 -A RULE1 -s 27.51.0.0/16       -j RULE2
 -A RULE1 -s 27.52.0.0/15       -j RULE2
