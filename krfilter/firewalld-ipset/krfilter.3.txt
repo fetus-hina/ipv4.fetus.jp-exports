@@ -1622,6 +1622,7 @@
   <entry>45.67.56.0/22</entry>
   <entry>45.67.192.0/22</entry>
   <entry>45.67.212.0/23</entry>
+  <entry>45.74.156.0/23</entry>
   <entry>45.74.248.0/22</entry>
   <entry>45.80.44.0/22</entry>
   <entry>45.80.64.0/21</entry>
@@ -2999,7 +3000,6 @@
   <entry>62.122.176.0/21</entry>
   <entry>62.122.192.0/21</entry>
   <entry>62.122.208.0/21</entry>
-  <entry>62.122.216.0/22</entry>
   <entry>62.122.240.0/21</entry>
   <entry>62.133.60.0/22</entry>
   <entry>62.133.160.0/19</entry>
@@ -3032,6 +3032,7 @@
   <entry>62.204.32.0/24</entry>
   <entry>62.204.41.0/24</entry>
   <entry>62.204.52.0/24</entry>
+  <entry>62.204.57.0/24</entry>
   <entry>62.205.160.0/19</entry>
   <entry>62.213.0.0/17</entry>
   <entry>62.217.160.0/19</entry>
@@ -3688,7 +3689,8 @@
   <entry>82.144.64.0/19</entry>
   <entry>82.146.32.0/19</entry>
   <entry>82.147.64.0/18</entry>
-  <entry>82.148.0.0/19</entry>
+  <entry>82.148.8.0/21</entry>
+  <entry>82.148.16.0/20</entry>
   <entry>82.149.128.0/19</entry>
   <entry>82.149.192.0/19</entry>
   <entry>82.151.96.0/19</entry>
@@ -4245,7 +4247,8 @@
   <entry>89.232.128.0/19</entry>
   <entry>89.232.160.0/21</entry>
   <entry>89.232.168.0/22</entry>
-  <entry>89.232.176.0/20</entry>
+  <entry>89.232.176.0/21</entry>
+  <entry>89.232.188.0/22</entry>
   <entry>89.232.192.0/18</entry>
   <entry>89.235.128.0/18</entry>
   <entry>89.237.0.0/18</entry>
@@ -6040,7 +6043,6 @@
   <entry>94.143.240.0/21</entry>
   <entry>94.154.11.0/24</entry>
   <entry>94.154.64.0/19</entry>
-  <entry>94.154.128.0/22</entry>
   <entry>94.154.188.0/22</entry>
   <entry>94.158.0.0/20</entry>
   <entry>94.158.16.0/22</entry>
@@ -9890,7 +9892,6 @@
   <entry>103.119.120.0/22</entry>
   <entry>103.119.128.0/22</entry>
   <entry>103.119.132.0/23</entry>
-  <entry>103.119.137.0/24</entry>
   <entry>103.119.138.0/23</entry>
   <entry>103.119.140.0/22</entry>
   <entry>103.119.144.0/22</entry>
@@ -17192,8 +17193,10 @@
   <entry>153.36.0.0/15</entry>
   <entry>153.51.32.0/19</entry>
   <entry>153.51.96.0/19</entry>
+  <entry>153.56.188.0/23</entry>
   <entry>153.60.128.0/18</entry>
   <entry>153.76.64.0/19</entry>
+  <entry>153.76.160.0/20</entry>
   <entry>153.80.172.0/22</entry>
   <entry>153.80.176.0/20</entry>
   <entry>153.80.224.0/19</entry>
@@ -17741,7 +17744,9 @@
   <entry>160.236.31.0/24</entry>
   <entry>160.236.32.0/22</entry>
   <entry>160.236.36.0/23</entry>
-  <entry>160.236.40.0/24</entry>
+  <entry>160.236.40.0/22</entry>
+  <entry>160.236.44.0/24</entry>
+  <entry>160.236.46.0/23</entry>
   <entry>160.238.64.0/22</entry>
   <entry>160.238.72.0/21</entry>
   <entry>160.238.84.0/22</entry>
@@ -19734,7 +19739,6 @@
   <entry>185.75.208.0/22</entry>
   <entry>185.75.220.0/23</entry>
   <entry>185.75.248.0/22</entry>
-  <entry>185.76.12.0/22</entry>
   <entry>185.76.80.0/22</entry>
   <entry>185.76.108.0/22</entry>
   <entry>185.76.144.0/22</entry>
@@ -20506,7 +20510,6 @@
   <entry>185.227.84.0/22</entry>
   <entry>185.227.152.0/22</entry>
   <entry>185.228.48.0/22</entry>
-  <entry>185.228.88.0/22</entry>
   <entry>185.228.112.0/22</entry>
   <entry>185.228.132.0/22</entry>
   <entry>185.228.184.0/22</entry>
@@ -21483,7 +21486,6 @@
   <entry>193.148.44.0/24</entry>
   <entry>193.148.52.0/22</entry>
   <entry>193.148.62.0/24</entry>
-  <entry>193.149.16.0/22</entry>
   <entry>193.149.151.0/24</entry>
   <entry>193.149.158.0/23</entry>
   <entry>193.149.166.0/23</entry>
@@ -21573,7 +21575,6 @@
   <entry>193.169.172.0/23</entry>
   <entry>193.169.176.0/22</entry>
   <entry>193.169.202.0/23</entry>
-  <entry>193.169.210.0/23</entry>
   <entry>193.169.213.0/24</entry>
   <entry>193.169.220.0/22</entry>
   <entry>193.169.226.0/23</entry>
@@ -25811,13 +25812,11 @@
   <entry>213.232.204.0/24</entry>
   <entry>213.232.206.0/23</entry>
   <entry>213.232.208.0/21</entry>
-  <entry>213.232.225.0/24</entry>
   <entry>213.232.227.0/24</entry>
   <entry>213.232.228.0/23</entry>
   <entry>213.232.233.0/24</entry>
   <entry>213.232.235.0/24</entry>
   <entry>213.232.240.0/24</entry>
-  <entry>213.232.245.0/24</entry>
   <entry>213.232.249.0/24</entry>
   <entry>213.232.250.0/23</entry>
   <entry>213.232.254.0/24</entry>
