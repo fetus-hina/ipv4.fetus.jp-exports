@@ -1970,7 +1970,13 @@
   <add allowed="false" ipAddress="158.182.0.0" subnetMask="255.255.0.0" />
   <add allowed="false" ipAddress="159.117.40.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="159.117.96.0" subnetMask="255.255.248.0" />
-  <add allowed="false" ipAddress="159.200.0.0" subnetMask="255.255.0.0" />
+  <add allowed="false" ipAddress="159.200.0.0" subnetMask="255.255.128.0" />
+  <add allowed="false" ipAddress="159.200.128.0" subnetMask="255.255.192.0" />
+  <add allowed="false" ipAddress="159.200.192.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="159.200.200.0" subnetMask="255.255.252.0" />
+  <add allowed="false" ipAddress="159.200.204.0" subnetMask="255.255.254.0" />
+  <add allowed="false" ipAddress="159.200.208.0" subnetMask="255.255.240.0" />
+  <add allowed="false" ipAddress="159.200.224.0" subnetMask="255.255.224.0" />
   <add allowed="false" ipAddress="160.19.48.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="160.20.52.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="160.20.56.0" subnetMask="255.255.248.0" />
