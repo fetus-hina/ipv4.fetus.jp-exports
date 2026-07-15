@@ -19,7 +19,10 @@ deny from 2.59.192.0/22
 deny from 2.59.232.0/22
 deny from 2.59.244.0/22
 deny from 2.136.0.0/13
-deny from 2.152.0.0/18
+deny from 2.152.6.0/23
+deny from 2.152.8.0/21
+deny from 2.152.16.0/20
+deny from 2.152.32.0/19
 deny from 2.152.72.0/21
 deny from 2.152.80.0/20
 deny from 2.152.96.0/19
