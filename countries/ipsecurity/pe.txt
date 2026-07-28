@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ipSecurity allowUnlisted="true">
+  <add allowed="false" ipAddress="2.152.246.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="45.4.92.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="45.5.56.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="45.5.68.0" subnetMask="255.255.252.0" />
