@@ -1203,11 +1203,7 @@ Require not ip 43.231.80.0/20
 Require not ip 43.231.96.0/20
 Require not ip 43.231.116.0/22
 Require not ip 43.231.120.0/21
-Require not ip 43.231.128.0/23
-Require not ip 43.231.130.0/24
-Require not ip 43.231.132.0/22
-Require not ip 43.231.136.0/21
-Require not ip 43.231.144.0/20
+Require not ip 43.231.128.0/19
 Require not ip 43.231.160.0/20
 Require not ip 43.231.176.0/21
 Require not ip 43.231.184.0/22
@@ -2336,6 +2332,7 @@ Require not ip 45.249.12.0/22
 Require not ip 45.249.16.0/20
 Require not ip 45.249.32.0/20
 Require not ip 45.249.48.0/21
+Require not ip 45.249.63.0/24
 Require not ip 45.249.64.0/20
 Require not ip 45.249.80.0/21
 Require not ip 45.249.92.0/22
