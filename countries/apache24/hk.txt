@@ -1947,7 +1947,7 @@ Require not ip 152.101.0.0/16
 Require not ip 152.103.0.0/16
 Require not ip 152.104.0.0/17
 Require not ip 152.175.0.0/16
-Require not ip 153.79.176.0/20
+Require not ip 153.79.176.0/22
 Require not ip 154.8.0.0/19
 Require not ip 154.8.32.0/20
 Require not ip 154.8.64.0/19
@@ -1975,7 +1975,8 @@ Require not ip 159.117.96.0/21
 Require not ip 159.200.0.0/17
 Require not ip 159.200.128.0/18
 Require not ip 159.200.192.0/21
-Require not ip 159.200.200.0/22
+Require not ip 159.200.201.0/24
+Require not ip 159.200.202.0/23
 Require not ip 159.200.204.0/23
 Require not ip 159.200.208.0/20
 Require not ip 159.200.224.0/22
