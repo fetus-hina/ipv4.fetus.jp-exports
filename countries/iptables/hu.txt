@@ -124,7 +124,6 @@
 -A RULE1 -s 78.131.0.0/17      -j RULE2
 -A RULE1 -s 78.139.0.0/18      -j RULE2
 -A RULE1 -s 78.142.204.0/22    -j RULE2
--A RULE1 -s 78.153.96.0/19     -j RULE2
 -A RULE1 -s 79.120.128.0/17    -j RULE2
 -A RULE1 -s 79.121.0.0/17      -j RULE2
 -A RULE1 -s 79.122.0.0/17      -j RULE2

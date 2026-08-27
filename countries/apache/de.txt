@@ -194,7 +194,10 @@ deny from 5.253.240.0/21
 deny from 9.204.0.0/16
 deny from 9.206.0.0/16
 deny from 9.210.0.0/15
-deny from 13.140.0.0/15
+deny from 13.140.0.0/18
+deny from 13.140.64.0/19
+deny from 13.140.128.0/17
+deny from 13.141.0.0/16
 deny from 23.19.48.0/22
 deny from 23.88.0.0/17
 deny from 23.252.72.0/24
