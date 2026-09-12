@@ -12398,6 +12398,7 @@ deny from 159.188.0.0/15
 deny from 159.191.0.0/16
 deny from 159.197.128.0/17
 deny from 159.198.0.0/15
+deny from 159.200.201.0/24
 deny from 159.201.0.0/16
 deny from 159.202.0.0/15
 deny from 159.204.0.0/16
@@ -22830,10 +22831,7 @@ deny from 199.34.106.0/23
 deny from 199.34.108.0/22
 deny from 199.34.112.0/23
 deny from 199.34.120.0/21
-deny from 199.34.128.0/18
-deny from 199.34.192.0/19
-deny from 199.34.224.0/20
-deny from 199.34.240.0/21
+deny from 199.34.128.0/17
 deny from 199.35.0.0/16
 deny from 199.36.0.0/21
 deny from 199.36.8.0/23
@@ -23165,6 +23163,9 @@ deny from 199.85.76.0/22
 deny from 199.85.80.0/20
 deny from 199.85.96.0/23
 deny from 199.85.98.0/24
+deny from 199.85.102.0/23
+deny from 199.85.104.0/23
+deny from 199.85.106.0/24
 deny from 199.85.116.0/23
 deny from 199.85.120.0/22
 deny from 199.85.125.0/24
