@@ -1260,7 +1260,6 @@ Require not ip 80.40.0.0/15
 Require not ip 80.42.0.0/16
 Require not ip 80.44.0.0/15
 Require not ip 80.46.0.0/17
-Require not ip 80.46.160.0/19
 Require not ip 80.46.192.0/19
 Require not ip 80.47.96.0/19
 Require not ip 80.47.160.0/19
@@ -3608,8 +3607,9 @@ Require not ip 157.173.40.0/21
 Require not ip 157.173.48.0/20
 Require not ip 157.173.64.0/22
 Require not ip 157.173.69.0/24
-Require not ip 157.173.70.0/24
-Require not ip 157.173.72.0/21
+Require not ip 157.173.72.0/22
+Require not ip 157.173.76.0/24
+Require not ip 157.173.78.0/23
 Require not ip 157.173.224.0/19
 Require not ip 157.176.0.0/16
 Require not ip 157.203.0.0/16
