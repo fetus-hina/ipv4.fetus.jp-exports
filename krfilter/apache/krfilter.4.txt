@@ -16217,7 +16217,7 @@ deny from 159.195.0.0/16
 deny from 159.197.0.0/17
 deny from 159.200.206.0/23
 deny from 159.200.211.0/24
-deny from 159.200.220.0/24
+deny from 159.200.220.0/23
 deny from 159.200.228.0/22
 deny from 159.200.238.0/24
 deny from 159.200.240.0/22
@@ -24461,7 +24461,8 @@ deny from 185.245.22.0/24
 deny from 185.245.28.0/22
 deny from 185.245.32.0/22
 deny from 185.245.44.0/22
-deny from 185.245.48.0/20
+deny from 185.245.52.0/22
+deny from 185.245.56.0/21
 deny from 185.245.64.0/20
 deny from 185.245.80.0/21
 deny from 185.245.88.0/22
