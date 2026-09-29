@@ -9603,6 +9603,7 @@ Require not ip 91.199.145.0/24
 Require not ip 91.199.146.0/23
 Require not ip 91.199.148.0/24
 Require not ip 91.199.150.0/23
+Require not ip 91.199.152.0/24
 Require not ip 91.199.154.0/23
 Require not ip 91.199.157.0/24
 Require not ip 91.199.158.0/23
@@ -10044,6 +10045,7 @@ Require not ip 91.209.114.0/23
 Require not ip 91.209.116.0/23
 Require not ip 91.209.120.0/23
 Require not ip 91.209.123.0/24
+Require not ip 91.209.125.0/24
 Require not ip 91.209.132.0/23
 Require not ip 91.209.136.0/23
 Require not ip 91.209.141.0/24
@@ -15777,6 +15779,7 @@ Require not ip 151.206.0.0/16
 Require not ip 151.211.0.0/16
 Require not ip 151.212.0.0/16
 Require not ip 151.216.4.0/24
+Require not ip 151.216.32.0/21
 Require not ip 151.224.0.0/13
 Require not ip 151.236.0.0/18
 Require not ip 151.236.128.0/19
@@ -15893,6 +15896,7 @@ Require not ip 153.59.0.0/16
 Require not ip 153.60.32.0/19
 Require not ip 153.60.192.0/18
 Require not ip 153.76.32.0/19
+Require not ip 153.76.144.0/20
 Require not ip 153.76.176.0/23
 Require not ip 153.76.180.0/22
 Require not ip 153.76.184.0/21
@@ -31687,8 +31691,7 @@ Require not ip 194.110.192.0/21
 Require not ip 194.110.200.0/23
 Require not ip 194.110.205.0/24
 Require not ip 194.110.206.0/23
-Require not ip 194.110.208.0/24
-Require not ip 194.110.210.0/23
+Require not ip 194.110.208.0/22
 Require not ip 194.110.212.0/24
 Require not ip 194.110.214.0/23
 Require not ip 194.110.217.0/24
@@ -34919,6 +34922,7 @@ Require not ip 206.130.228.0/24
 Require not ip 206.168.72.0/21
 Require not ip 206.195.32.0/19
 Require not ip 206.195.128.0/20
+Require not ip 206.196.125.0/24
 Require not ip 206.197.208.0/24
 Require not ip 206.203.0.0/18
 Require not ip 206.204.104.0/22
@@ -35690,7 +35694,10 @@ Require not ip 212.192.240.0/22
 Require not ip 212.192.244.0/23
 Require not ip 212.192.250.0/23
 Require not ip 212.192.252.0/22
-Require not ip 212.193.0.0/19
+Require not ip 212.193.0.0/21
+Require not ip 212.193.8.0/23
+Require not ip 212.193.12.0/23
+Require not ip 212.193.16.0/20
 Require not ip 212.194.0.0/15
 Require not ip 212.196.0.0/15
 Require not ip 212.198.0.0/16
