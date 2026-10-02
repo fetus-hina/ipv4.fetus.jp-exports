@@ -400,7 +400,7 @@
 -A RULE1 -s 45.8.180.0/22      -j RULE2
 -A RULE1 -s 45.8.224.0/22      -j RULE2
 -A RULE1 -s 45.9.20.0/24       -j RULE2
--A RULE1 -s 45.9.22.0/23       -j RULE2
+-A RULE1 -s 45.9.22.0/24       -j RULE2
 -A RULE1 -s 45.9.233.0/24      -j RULE2
 -A RULE1 -s 45.9.234.0/23      -j RULE2
 -A RULE1 -s 45.10.76.0/22      -j RULE2
@@ -3382,7 +3382,6 @@
 -A RULE1 -s 146.169.0.0/16     -j RULE2
 -A RULE1 -s 146.176.0.0/15     -j RULE2
 -A RULE1 -s 146.179.0.0/16     -j RULE2
--A RULE1 -s 146.188.0.0/16     -j RULE2
 -A RULE1 -s 146.191.0.0/16     -j RULE2
 -A RULE1 -s 146.194.0.0/16     -j RULE2
 -A RULE1 -s 146.227.0.0/16     -j RULE2
