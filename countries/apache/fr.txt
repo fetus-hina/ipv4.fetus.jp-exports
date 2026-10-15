@@ -1179,7 +1179,15 @@ deny from 92.118.96.0/22
 deny from 92.118.244.0/22
 deny from 92.119.52.0/22
 deny from 92.119.232.0/22
-deny from 92.128.0.0/10
+deny from 92.128.0.0/11
+deny from 92.160.0.0/12
+deny from 92.176.0.0/14
+deny from 92.180.0.0/16
+deny from 92.181.0.0/17
+deny from 92.181.128.0/18
+deny from 92.181.192.0/19
+deny from 92.182.0.0/15
+deny from 92.184.0.0/13
 deny from 92.222.0.0/16
 deny from 92.243.0.0/19
 deny from 92.245.128.0/19
