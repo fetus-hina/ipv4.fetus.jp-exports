@@ -228,7 +228,7 @@
   <add allowed="false" ipAddress="80.73.244.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="80.91.209.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="80.91.210.0" subnetMask="255.255.254.0" />
-  <add allowed="false" ipAddress="80.91.212.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="80.91.212.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="80.251.152.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="80.253.248.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="83.138.48.0" subnetMask="255.255.255.0" />
@@ -373,6 +373,10 @@
   <add allowed="false" ipAddress="113.30.152.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="116.206.104.0" subnetMask="255.255.252.0" />
   <add allowed="false" ipAddress="128.0.32.0" subnetMask="255.255.255.0" />
+  <add allowed="false" ipAddress="130.78.192.0" subnetMask="255.255.240.0" />
+  <add allowed="false" ipAddress="130.78.208.0" subnetMask="255.255.248.0" />
+  <add allowed="false" ipAddress="130.78.224.0" subnetMask="255.255.240.0" />
+  <add allowed="false" ipAddress="130.78.248.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="130.185.152.0" subnetMask="255.255.248.0" />
   <add allowed="false" ipAddress="130.193.79.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="130.255.169.0" subnetMask="255.255.255.0" />
@@ -380,7 +384,7 @@
   <add allowed="false" ipAddress="135.106.134.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="136.234.127.0" subnetMask="255.255.255.0" />
   <add allowed="false" ipAddress="136.234.128.0" subnetMask="255.255.128.0" />
-  <add allowed="false" ipAddress="137.22.128.0" subnetMask="255.255.224.0" />
+  <add allowed="false" ipAddress="137.22.128.0" subnetMask="255.255.240.0" />
   <add allowed="false" ipAddress="137.63.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="138.16.0.0" subnetMask="255.255.128.0" />
   <add allowed="false" ipAddress="138.16.138.0" subnetMask="255.255.254.0" />
