@@ -1057,7 +1057,7 @@ deny from 62.50.96.0/19
 deny from 62.52.0.0/14
 deny from 62.68.0.0/19
 deny from 62.68.75.0/24
-deny from 62.68.82.0/24
+deny from 62.68.82.0/23
 deny from 62.69.144.0/21
 deny from 62.72.0.0/18
 deny from 62.72.64.0/19
@@ -1373,6 +1373,7 @@ deny from 80.208.232.0/21
 deny from 80.208.255.0/24
 deny from 80.209.192.0/19
 deny from 80.209.244.0/22
+deny from 80.224.218.0/23
 deny from 80.224.236.0/23
 deny from 80.224.252.0/24
 deny from 80.226.0.0/16
