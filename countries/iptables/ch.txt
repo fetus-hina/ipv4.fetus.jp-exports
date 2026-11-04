@@ -979,6 +979,7 @@
 -A RULE1 -s 179.237.64.0/18    -j RULE2
 -A RULE1 -s 185.0.30.0/23      -j RULE2
 -A RULE1 -s 185.0.40.0/26      -j RULE2
+-A RULE1 -s 185.1.3.0/24       -j RULE2
 -A RULE1 -s 185.1.59.0/24      -j RULE2
 -A RULE1 -s 185.1.93.0/24      -j RULE2
 -A RULE1 -s 185.1.105.0/24     -j RULE2
