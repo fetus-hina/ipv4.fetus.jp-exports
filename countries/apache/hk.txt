@@ -1979,7 +1979,8 @@ deny from 158.132.0.0/16
 deny from 158.182.0.0/16
 deny from 159.117.40.0/21
 deny from 159.117.96.0/21
-deny from 159.200.0.0/17
+deny from 159.200.0.0/18
+deny from 159.200.64.0/19
 deny from 159.200.204.0/24
 deny from 159.200.222.0/23
 deny from 159.200.224.0/22
@@ -2245,6 +2246,8 @@ deny from 189.105.64.0/18
 deny from 191.1.0.0/16
 deny from 191.40.0.0/18
 deny from 191.124.0.0/16
+deny from 191.141.0.0/16
+deny from 191.142.0.0/15
 deny from 191.214.0.0/16
 deny from 191.217.64.0/20
 deny from 191.218.192.0/18
