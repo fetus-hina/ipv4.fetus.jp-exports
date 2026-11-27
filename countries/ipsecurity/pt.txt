@@ -2,6 +2,7 @@
 
 <ipSecurity allowUnlisted="true">
   <add allowed="false" ipAddress="2.80.0.0" subnetMask="255.252.0.0" />
+  <add allowed="false" ipAddress="2.152.90.0" subnetMask="255.255.254.0" />
   <add allowed="false" ipAddress="5.43.0.0" subnetMask="255.255.192.0" />
   <add allowed="false" ipAddress="5.158.0.0" subnetMask="255.255.192.0" />
   <add allowed="false" ipAddress="5.183.96.0" subnetMask="255.255.252.0" />
